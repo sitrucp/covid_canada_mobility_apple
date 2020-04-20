@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Apple Mobility Data - Canada Cities</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+    <link rel="stylesheet" type="text/css" href="site.css" />
+</head>
+
+<body>
+<div id='heatmap'></div>
+
+<script>
+var data = [
+  {
+    z: [[1, null, 30, 50, 1], [20, 1, 60, 80, 30], [30, 60, 1, -10, 20]],
+    x: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+    y: ['Morning', 'Afternoon', 'Evening'],
+    type: 'heatmap',
+    hoverongaps: false
+  }
+];
+
+Plotly.newPlot('heatmap', data);
+
+</script>
+
+</body>
+</html>

@@ -6,6 +6,6 @@ Data is available as csv file format at <a href="https://www.apple.com/covid19/m
 
 A D3.js vizualization is available at <a href="https://sitrucp.github.io/covid_canada_apple_mobility/">https://sitrucp.github.io/covid_canada_apple_mobility</a>. 
 
-The D3.js visualization was created using slightly modified code from <a href="https://github.com/datasciencecampus/google-mobility-reports-data">datasciencecampus</a>.
+The D3.js visualization was created using code from <a href="https://github.com/ONSvisual/google-mobility-map">ONSvisual</a>.
 
 
