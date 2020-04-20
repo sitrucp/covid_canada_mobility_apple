@@ -14,14 +14,14 @@
       "medium":3
     },
     "tickNumber":{
-      "small":2,
-      "medium":6
+      "small":6,
+      "medium":10
     },
-    "breaks":[[10,20,30,40,50,60,70,80,90,100]],
-    "numberBreaks":9,
+    "breaks":[[0,30,60,90,120,150,180,210,240]],
+    "numberBreaks":8,
     "legenddecimals":0,
     "displaydecimals":0,
-    "varcolour":["#08306b","#08519c","#2171b5","#4292c6","#6baed6","#9ecae1","#c6dbef","#deebf7","#f7fbff"],
+    "varcolour": ["#08306b","#08519c","#2171b5","#4292c6","#6baed6","#9ecae1","#c6dbef","#deebf7","#f7fbff"],
     "varunit":"Percent comparison to baseline"
   },
   "optional" : {
@@ -40,6 +40,6 @@
       }
     },
     "mobileBreakpoint" : 450,
-    "tickDayInterval": 14
+    "tickDayInterval": 9
   }
 }

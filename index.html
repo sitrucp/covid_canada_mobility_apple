@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Apple Mobility Data - Canada Cities</title>
+    <title>Apple Mobility Data - Canadian Cities</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
@@ -19,8 +19,8 @@
 <body>
     <div class="row">
         <div class="col-md-12">
-            <h3>Apple Mobility Trends Reports - Canada Cities Data</h3>
-            <p id="header">This heatmap visualization shows Apple Mobility Trends Reports data that contain relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.</p>
+            <h3>Apple Mobility Trends Reports - Canadian Cities Data</h3>
+            <p id="header">This heatmap visualization shows Apple Mobility Trends Reports data that contain relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020. The dataset included the following Canadian cities: Vancouver, Ottawa, Toronto, Calgary, Edmonton and Montreal.</p>
             
             <p>Data source: <a href="https://www.apple.com/covid19/mobility/" target="blank">Mobility Trends Reports csv format data</a></p>
 
@@ -30,7 +30,7 @@
         </div>
     </div>
     <div class="heatmap">
-        <div id="key"></div>
+        <div id="legend"></div>
         <div id="charts"></div>
     </div>
 </body>
@@ -339,11 +339,11 @@ function drawGraphic() {
 
     keyheight = 65;
 
-    keywidth = d3.select("#key").node().getBoundingClientRect().width;
+    keywidth = d3.select("#legend").node().getBoundingClientRect().width;
 
-    svgkey = d3.select("#key")
+    svgkey = d3.select("#legend")
       .append("svg")
-      .attr("id", "key")
+      .attr("id", "legend")
       .attr("width", keywidth)
       .attr("height", keyheight);
 
@@ -363,7 +363,6 @@ function drawGraphic() {
 
     var g2 = svgkey.append("g").attr("id", "horiz")
       .attr("transform", "translate(15,30)");
-
 
     keyhor = d3.select("#horiz");
 
@@ -390,7 +389,6 @@ function drawGraphic() {
         return d.z;
       });
 
-
     g2.append("line")
       .attr("id", "currLine")
       .attr("x1", xkey(10))
@@ -408,8 +406,6 @@ function drawGraphic() {
       .attr("fill", "#000")
       .attr('font-size',12)
       .text("");
-
-
 
     keyhor.selectAll("rect")
       .data(color.range().map(function(d, i) {
@@ -443,7 +439,7 @@ function drawGraphic() {
       .style("fill", "#ccc")
       .attr("x", xkey(0));
 
-    d3.select("#key")
+    d3.select("#legend")
       .append("p")
       .attr("id", "keyunit")
       .style("margin-top", "-6px")
