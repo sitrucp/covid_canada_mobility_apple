@@ -19,7 +19,7 @@
 <body>
     <div class="row">
         <div class="col-md-12">
-            <h3>Mobility Trends Reports - Canada Cities Data</h3>
+            <h3>Apple Mobility Trends Reports - Canada Cities Data</h3>
             <p id="header">This heatmap visualization shows Apple Mobility Trends Reports data that contain relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.</p>
             
             <p>Data source: <a href="https://www.apple.com/covid19/mobility/" target="blank">Mobility Trends Reports csv format data</a></p>
@@ -44,16 +44,16 @@ function drawGraphic() {
   legendformat = d3.format("." + dvc.essential.legenddecimals + "f");
   displayformat = d3.format("." + dvc.essential.displaydecimals + "f");
 
-  canadianCities = dvc.essential.canadianCities;
+  canadianCity = dvc.essential.canadianCity;
 
   cities = graphic_data.filter(function(d) {
-    return canadianCities.contains(d.City);
+    return canadianCity.contains(d.Region);
   })
 
   //create custom sorting index as set by entry of cities in the config
   sortObject={}
-  for(i=0;i<canadianCities.length;i++){
-    sortObject[canadianCities[i]]=i;
+  for(i=0;i<canadianCity.length;i++){
+    sortObject[canadianCity[i]]=i;
   }
 
   categorySort={}
@@ -62,15 +62,16 @@ function drawGraphic() {
   }
 
   cities.sort(function(a,b){
-    return categorySort[a.Category] - categorySort[b.Category]
+    return categorySort[a.Transportation] - categorySort[b.Transportation]
   })
+  
   cities.sort(function(a,b){
-    return sortObject[a.City] - sortObject[b.City]
+    return sortObject[a.Region] - sortObject[b.Region]
   })
 
   nameCodeLookup={}
   for(i=0;i<cities.length;i++){
-    nameCodeLookup[cities[i].City]=cities[i].City
+    nameCodeLookup[cities[i].Region]=cities[i].Region
   }
 
   columnDates = Object.keys(graphic_data[0]).filter(function(d) {
@@ -83,10 +84,10 @@ function drawGraphic() {
 
   nested = d3.nest()
     .key(function(d) {
-      return d.Category
+      return d.Transportation
     })
     .key(function(d) {
-      return d.City
+      return d.Region
     })
     .entries(cities)
 
@@ -100,7 +101,7 @@ function drawGraphic() {
   // get height of each category from on
   var categoryHeight = dvc.essential.categoryHeight[screenSize]
   // set total svg height as the num categories * category height
-  var height = categoryHeight * canadianCities.length
+  var height = categoryHeight * canadianCity.length
   var width = chartwidth - margin.left - margin.right;
 
   // data should be an array with an object where the key is the category name.
@@ -232,7 +233,7 @@ function drawGraphic() {
   d3.selectAll('path.domain')
     .style('opacity', 0);
 
-  svg.append('g').attr("class", "axis").call(xaxis).attr('transform', "translate(" + (0.475 * x.range()[1] / columnDates.length) + "," + (canadianCities.length * categoryHeight + 3) + ")")
+  svg.append('g').attr("class", "axis").call(xaxis).attr('transform', "translate(" + (0.475 * x.range()[1] / columnDates.length) + "," + (canadianCity.length * categoryHeight + 3) + ")")
 
   // make a key
 

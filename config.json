@@ -1,7 +1,7 @@
 {
   "essential" : {
     "graphic_data_url": "https://raw.githubusercontent.com/sitrucp/covid_canada_apple_mobility/master/apple_mobility_canada_data.csv",
-    "canadianCities":["Vancouver","Ottawa","Toronto","Calgary","Edmonton","Montreal"],
+    "canadianCity":["Vancouver","Ottawa","Toronto","Calgary","Edmonton","Montreal"],
     "categorySort":["driving","transit","walking"],
     "categoryHeight": {
       "small": 20,
@@ -17,11 +17,11 @@
       "small":2,
       "medium":6
     },
-    "breaks":[[-100,-80,-60,-40,-20,20,40,60,75]],
-    "numberBreaks":8,
+    "breaks":[[10,20,30,40,50,60,70,80,90,100]],
+    "numberBreaks":9,
     "legenddecimals":0,
     "displaydecimals":0,
-    "varcolour":["#b2182b","#d6604d","#f4a582","#fddbc7","#f7f7f7","#d1e5f0","#92c5de","#4393c3","#2166ac"],
+    "varcolour":["#08306b","#08519c","#2171b5","#4292c6","#6baed6","#9ecae1","#c6dbef","#deebf7","#f7fbff"],
     "varunit":"Percent comparison to baseline"
   },
   "optional" : {
@@ -36,7 +36,7 @@
         "top": 20,
         "right": 55,
         "bottom": 20,
-        "left": 40
+        "left": 110
       }
     },
     "mobileBreakpoint" : 450,
