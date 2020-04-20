@@ -1,8 +1,8 @@
 {
   "essential" : {
-    "graphic_data_url": "https://raw.githubusercontent.com/sitrucp/canada_google_mobility_report_data/master/google_mobility_canada_data.csv",
-    "canadianProv":["AB","BC","MB","NB","NF","NS","NT","NU","ON","PE","QC","SK","YK"],
-    "categorySort":["Workplaces","Retail & Recreation","Transit Stations","Grocery & Pharmacy","Parks","Residential"],
+    "graphic_data_url": "https://raw.githubusercontent.com/sitrucp/covid_canada_apple_mobility/master/apple_mobility_canada_data.csv",
+    "canadianCities":["Vancouver","Ottawa","Toronto","Calgary","Edmonton","Montreal"],
+    "categorySort":["driving","transit","walking"],
     "categoryHeight": {
       "small": 20,
       "medium": 20

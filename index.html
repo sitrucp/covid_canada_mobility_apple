@@ -20,11 +20,11 @@
     <div class="row">
         <div class="col-md-12">
             <h3>Mobility Trends Reports - Canada Cities Data</h3>
-            <p id="header">This heatmap visualization shows Mobility Trends Reports data that contain relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.</p>
+            <p id="header">This heatmap visualization shows Apple Mobility Trends Reports data that contain relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.</p>
             
             <p>Data source: <a href="https://www.apple.com/covid19/mobility/" target="blank">Mobility Trends Reports csv format data</a></p>
 
-            <p>Back to <a href="https://github.com/sitrucp/canada_google_mobility_report_data">Github repository</a></p>
+            <p>Back to <a href="https://github.com/sitrucp/covid_canada_apple_mobility">Github repository</a></p>
 
             <div id="tester"></div>
         </div>
@@ -44,16 +44,16 @@ function drawGraphic() {
   legendformat = d3.format("." + dvc.essential.legenddecimals + "f");
   displayformat = d3.format("." + dvc.essential.displaydecimals + "f");
 
-  canadianProv = dvc.essential.canadianProv;
+  canadianCities = dvc.essential.canadianCities;
 
-  provinces = graphic_data.filter(function(d) {
-    return canadianProv.contains(d.Prov);
+  cities = graphic_data.filter(function(d) {
+    return canadianCities.contains(d.City);
   })
 
-  //create custom sorting index as set by entry of provinces in the config
+  //create custom sorting index as set by entry of cities in the config
   sortObject={}
-  for(i=0;i<canadianProv.length;i++){
-    sortObject[canadianProv[i]]=i;
+  for(i=0;i<canadianCities.length;i++){
+    sortObject[canadianCities[i]]=i;
   }
 
   categorySort={}
@@ -61,16 +61,16 @@ function drawGraphic() {
     categorySort[dvc.essential.categorySort[i]]=i;
   }
 
-  provinces.sort(function(a,b){
+  cities.sort(function(a,b){
     return categorySort[a.Category] - categorySort[b.Category]
   })
-  provinces.sort(function(a,b){
-    return sortObject[a.Prov] - sortObject[b.Prov]
+  cities.sort(function(a,b){
+    return sortObject[a.City] - sortObject[b.City]
   })
 
   nameCodeLookup={}
-  for(i=0;i<provinces.length;i++){
-    nameCodeLookup[provinces[i].Prov]=provinces[i].Prov
+  for(i=0;i<cities.length;i++){
+    nameCodeLookup[cities[i].City]=cities[i].City
   }
 
   columnDates = Object.keys(graphic_data[0]).filter(function(d) {
@@ -86,9 +86,9 @@ function drawGraphic() {
       return d.Category
     })
     .key(function(d) {
-      return d.Prov
+      return d.City
     })
-    .entries(provinces)
+    .entries(cities)
 
   if (chartwidth < dvc.optional.mobileBreakpoint) {
     var screenSize = "small";
@@ -100,13 +100,13 @@ function drawGraphic() {
   // get height of each category from on
   var categoryHeight = dvc.essential.categoryHeight[screenSize]
   // set total svg height as the num categories * category height
-  var height = categoryHeight * canadianProv.length
+  var height = categoryHeight * canadianCities.length
   var width = chartwidth - margin.left - margin.right;
 
   // data should be an array with an object where the key is the category name.
   // The value is an array of datapoints/objects with a date and magnitude.
 
-  defineBreaks(provinces);
+  defineBreaks(cities);
   setupScales();
   createKey();
 
@@ -232,7 +232,7 @@ function drawGraphic() {
   d3.selectAll('path.domain')
     .style('opacity', 0);
 
-  svg.append('g').attr("class", "axis").call(xaxis).attr('transform', "translate(" + (0.475 * x.range()[1] / columnDates.length) + "," + (canadianProv.length * categoryHeight + 3) + ")")
+  svg.append('g').attr("class", "axis").call(xaxis).attr('transform', "translate(" + (0.475 * x.range()[1] / columnDates.length) + "," + (canadianCities.length * categoryHeight + 3) + ")")
 
   // make a key
 
