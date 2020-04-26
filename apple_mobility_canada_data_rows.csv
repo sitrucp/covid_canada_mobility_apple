@@ -1,0 +1,1711 @@
+﻿Province,Region,Transportation_Type,Date,Value
+Alberta,Calgary,walking,2020-02-14,200.65
+British Columbia,Vancouver,walking,2020-02-14,191.7
+Alberta,Calgary,walking,2020-02-21,184.29
+British Columbia,Vancouver,walking,2020-02-29,180.47
+Alberta,Edmonton,walking,2020-02-28,180.4
+British Columbia,Vancouver,walking,2020-02-22,179.83
+British Columbia,Vancouver,walking,2020-02-08,179.32
+British Columbia,Vancouver,walking,2020-03-06,177.98
+British Columbia,Vancouver,walking,2020-02-21,177.14
+Alberta,Calgary,walking,2020-02-28,173.68
+British Columbia,Vancouver,walking,2020-03-07,173.67
+Alberta,Calgary,walking,2020-02-20,173.46
+British Columbia,Vancouver,walking,2020-02-15,173.07
+Alberta,Calgary,walking,2020-03-06,172.71
+Alberta,Edmonton,walking,2020-01-31,172.42
+Quebec,Montreal,walking,2020-02-15,170.69
+Alberta,Calgary,walking,2020-02-15,170.43
+Alberta,Calgary,walking,2020-01-24,169.23
+Alberta,Edmonton,walking,2020-02-07,169.1
+Alberta,Calgary,walking,2020-02-13,168.41
+Alberta,Calgary,walking,2020-02-22,168.36
+Alberta,Calgary,walking,2020-01-31,165.58
+Alberta,Edmonton,walking,2020-02-29,164.1
+Alberta,Edmonton,walking,2020-02-14,163.93
+Alberta,Calgary,walking,2020-02-07,162.08
+Alberta,Edmonton,walking,2020-02-21,161.33
+Alberta,Edmonton,walking,2020-02-22,160.21
+Alberta,Edmonton,walking,2020-01-25,160.18
+Alberta,Edmonton,walking,2020-02-27,160.15
+Alberta,Edmonton,walking,2020-02-08,159.81
+Alberta,Calgary,walking,2020-01-25,159.13
+Alberta,Calgary,walking,2020-02-29,158.82
+Ontario,Toronto,walking,2020-02-22,157.44
+British Columbia,Vancouver,walking,2020-02-16,157.44
+British Columbia,Vancouver,walking,2020-01-25,155.88
+Alberta,Edmonton,walking,2020-01-24,155.85
+Alberta,Edmonton,walking,2020-02-15,154.06
+Alberta,Edmonton,walking,2020-03-06,154.02
+Alberta,Calgary,walking,2020-02-01,153.92
+British Columbia,Vancouver,walking,2020-02-01,152.83
+British Columbia,Vancouver,walking,2020-02-07,152.35
+Alberta,Edmonton,walking,2020-02-06,151.39
+British Columbia,Vancouver,walking,2020-02-28,151.37
+British Columbia,Vancouver,walking,2020-02-20,151.22
+Ontario,Toronto,walking,2020-02-21,151.17
+British Columbia,Vancouver,walking,2020-01-24,151.17
+Alberta,Calgary,walking,2020-01-22,150.62
+Alberta,Edmonton,walking,2020-03-07,149.9
+Quebec,Montreal,walking,2020-02-29,149.78
+Quebec,Montreal,walking,2020-02-14,149.13
+Ontario,Ottawa,walking,2020-02-15,147.2
+Alberta,Edmonton,walking,2020-01-30,146.72
+Alberta,Calgary,walking,2020-01-21,146.35
+Alberta,Calgary,walking,2020-01-30,146.1
+Quebec,Montreal,walking,2020-01-24,145.92
+Quebec,Montreal,walking,2020-02-22,145.74
+British Columbia,Vancouver,walking,2020-02-19,145.23
+Alberta,Calgary,walking,2020-02-08,144.84
+British Columbia,Vancouver,walking,2020-01-18,144.62
+Quebec,Montreal,walking,2020-02-01,144.61
+Alberta,Edmonton,walking,2020-02-01,144.45
+Alberta,Edmonton,walking,2020-01-29,144.08
+Alberta,Calgary,walking,2020-01-28,143.63
+Quebec,Montreal,walking,2020-02-21,143.34
+Alberta,Calgary,walking,2020-01-23,143.29
+British Columbia,Vancouver,walking,2020-03-04,143.1
+Ontario,Toronto,walking,2020-03-07,142.35
+Alberta,Edmonton,walking,2020-02-20,142.24
+Alberta,Edmonton,walking,2020-02-13,142.07
+Alberta,Edmonton,driving,2020-02-14,141.73
+Alberta,Calgary,walking,2020-03-05,141.7
+Alberta,Calgary,walking,2020-02-19,141.26
+Ontario,Ottawa,walking,2020-02-01,140.31
+Ontario,Ottawa,walking,2020-01-31,140.21
+Alberta,Calgary,walking,2020-03-07,139.88
+British Columbia,Vancouver,driving,2020-02-14,139.86
+Alberta,Calgary,walking,2020-02-27,139.76
+Alberta,Calgary,walking,2020-02-06,139.52
+Ontario,Ottawa,walking,2020-03-07,139.2
+British Columbia,Vancouver,walking,2020-01-17,139.11
+Quebec,Montreal,walking,2020-01-31,138.9
+Quebec,Montreal,walking,2020-03-07,138.68
+Alberta,Edmonton,walking,2020-01-23,138.41
+Alberta,Edmonton,driving,2020-02-28,138.37
+Alberta,Edmonton,walking,2020-01-17,138.23
+Alberta,Edmonton,walking,2020-01-18,138.11
+Alberta,Edmonton,walking,2020-02-11,137.94
+Alberta,Edmonton,walking,2020-01-28,137.66
+Alberta,Edmonton,walking,2020-02-19,137.58
+Alberta,Calgary,walking,2020-03-03,137.45
+Quebec,Montreal,walking,2020-03-05,137.22
+British Columbia,Vancouver,walking,2020-02-18,137.17
+Alberta,Calgary,walking,2020-02-18,136.93
+Alberta,Edmonton,walking,2020-02-26,136.63
+Ontario,Toronto,walking,2020-02-14,136.5
+Alberta,Calgary,walking,2020-02-26,136.43
+Quebec,Montreal,walking,2020-02-08,136.13
+Alberta,Calgary,walking,2020-03-04,135.88
+Alberta,Edmonton,walking,2020-03-05,135.64
+Quebec,Montreal,walking,2020-02-16,135.51
+Ontario,Toronto,driving,2020-02-21,135.46
+Quebec,Montreal,walking,2020-03-06,135.28
+Ontario,Ottawa,walking,2020-02-22,135.22
+British Columbia,Vancouver,walking,2020-01-31,134.76
+Alberta,Edmonton,walking,2020-03-04,134.61
+Alberta,Edmonton,walking,2020-01-21,134.13
+British Columbia,Vancouver,walking,2020-03-05,134.11
+Ontario,Ottawa,walking,2020-02-21,133.86
+Alberta,Calgary,walking,2020-02-11,133.71
+Quebec,Montreal,walking,2020-01-25,133.71
+Alberta,Edmonton,driving,2020-02-29,133.63
+British Columbia,Vancouver,walking,2020-02-13,133.32
+Alberta,Edmonton,walking,2020-03-03,132.95
+Alberta,Calgary,walking,2020-02-16,132.92
+Quebec,Montreal,walking,2020-02-28,132.75
+Alberta,Edmonton,driving,2020-01-31,132.69
+Alberta,Calgary,walking,2020-03-02,132.42
+Alberta,Edmonton,driving,2020-03-06,132.41
+Ontario,Toronto,walking,2020-02-15,132.36
+Alberta,Calgary,walking,2020-01-29,132.22
+British Columbia,Vancouver,walking,2020-03-08,131.97
+Ontario,Ottawa,walking,2020-02-16,131.87
+Ontario,Toronto,driving,2020-02-14,131.44
+Alberta,Edmonton,driving,2020-02-07,131.26
+Ontario,Toronto,walking,2020-03-05,130.82
+Alberta,Edmonton,driving,2020-02-21,130.48
+Alberta,Edmonton,walking,2020-03-02,130.47
+Alberta,Calgary,walking,2020-02-25,130.4
+Alberta,Calgary,driving,2020-02-14,130.28
+Ontario,Ottawa,driving,2020-02-14,130.02
+Alberta,Edmonton,driving,2020-01-24,129.97
+Alberta,Edmonton,driving,2020-01-17,129.58
+Alberta,Edmonton,driving,2020-02-11,129.55
+British Columbia,Vancouver,driving,2020-02-21,129.42
+Alberta,Calgary,walking,2020-01-17,129.2
+Ontario,Ottawa,driving,2020-01-31,129.08
+British Columbia,Vancouver,walking,2020-02-12,129.05
+Alberta,Calgary,driving,2020-02-21,128.74
+Alberta,Edmonton,driving,2020-02-22,128.72
+Ontario,Ottawa,walking,2020-02-14,128.47
+Ontario,Toronto,walking,2020-02-01,128.3
+Alberta,Edmonton,walking,2020-02-25,128.26
+Quebec,Montreal,driving,2020-02-14,128.24
+Alberta,Edmonton,walking,2020-03-10,128.05
+Alberta,Edmonton,driving,2020-02-15,127.8
+Alberta,Edmonton,walking,2020-02-12,127.64
+Alberta,Edmonton,walking,2020-03-11,127.49
+Alberta,Calgary,walking,2020-03-10,127.38
+Alberta,Calgary,walking,2020-01-18,127.33
+Alberta,Edmonton,walking,2020-03-09,127.33
+Ontario,Toronto,walking,2020-02-29,127.32
+British Columbia,Vancouver,walking,2020-01-20,127.23
+Alberta,Edmonton,driving,2020-02-08,127.22
+Ontario,Ottawa,walking,2020-01-24,127.12
+British Columbia,Vancouver,driving,2020-02-28,127.04
+British Columbia,Vancouver,walking,2020-02-26,127.04
+Alberta,Edmonton,walking,2020-02-05,127.03
+Ontario,Toronto,walking,2020-01-31,127.03
+British Columbia,Vancouver,walking,2020-02-06,126.94
+Ontario,Ottawa,driving,2020-02-21,126.91
+Alberta,Calgary,driving,2020-01-31,126.67
+Ontario,Ottawa,walking,2020-03-05,126.61
+British Columbia,Vancouver,walking,2020-01-23,126.53
+Ontario,Ottawa,walking,2020-02-07,126.46
+Ontario,Ottawa,walking,2020-03-06,126.44
+Quebec,Montreal,driving,2020-02-21,126.38
+Ontario,Ottawa,driving,2020-02-28,126.16
+Alberta,Edmonton,walking,2020-01-22,126.13
+Alberta,Calgary,transit,2020-02-21,126.11
+British Columbia,Vancouver,walking,2020-02-27,126.08
+British Columbia,Vancouver,driving,2020-03-06,125.79
+British Columbia,Vancouver,walking,2020-02-11,125.66
+Alberta,Edmonton,driving,2020-01-25,125.58
+Alberta,Calgary,walking,2020-01-20,125.53
+Alberta,Calgary,walking,2020-03-11,125.51
+Ontario,Ottawa,driving,2020-02-15,125.46
+Alberta,Calgary,walking,2020-03-09,125.45
+Alberta,Edmonton,walking,2020-01-20,125.12
+Alberta,Edmonton,driving,2020-03-07,125.01
+Alberta,Calgary,driving,2020-02-28,124.83
+Alberta,Edmonton,walking,2020-02-10,124.77
+Ontario,Toronto,driving,2020-02-22,124.75
+Quebec,Montreal,walking,2020-01-18,124.74
+British Columbia,Vancouver,walking,2020-01-22,124.74
+Alberta,Calgary,driving,2020-02-22,124.68
+Ontario,Ottawa,walking,2020-02-29,124.48
+Ontario,Toronto,walking,2020-01-17,124.37
+Alberta,Calgary,walking,2020-02-05,124.26
+British Columbia,Vancouver,walking,2020-02-10,124.2
+Ontario,Ottawa,walking,2020-02-28,124.19
+Quebec,Montreal,transit,2020-02-21,124.14
+Alberta,Calgary,walking,2020-02-12,124.11
+Alberta,Calgary,walking,2020-02-04,123.85
+Alberta,Calgary,walking,2020-01-27,123.78
+Quebec,Montreal,driving,2020-01-24,123.73
+Quebec,Montreal,driving,2020-02-28,123.5
+British Columbia,Vancouver,walking,2020-01-21,123.44
+Alberta,Calgary,transit,2020-02-13,123.36
+British Columbia,Vancouver,walking,2020-02-17,123.35
+Alberta,Edmonton,transit,2020-03-04,123.27
+Ontario,Toronto,walking,2020-01-24,123.19
+Alberta,Calgary,transit,2020-02-28,123.13
+Ontario,Toronto,walking,2020-03-06,123.1
+Quebec,Montreal,walking,2020-01-17,122.87
+Alberta,Calgary,transit,2020-03-06,122.71
+British Columbia,Vancouver,walking,2020-01-27,122.67
+Alberta,Edmonton,walking,2020-02-04,122.55
+Alberta,Calgary,driving,2020-03-06,122.52
+British Columbia,Vancouver,walking,2020-02-09,122.22
+Alberta,Calgary,driving,2020-01-24,122.12
+Ontario,Toronto,driving,2020-01-17,122.11
+British Columbia,Vancouver,walking,2020-01-30,122.02
+Ontario,Toronto,driving,2020-02-28,121.95
+Alberta,Edmonton,driving,2020-01-22,121.92
+Alberta,Edmonton,transit,2020-02-12,121.83
+Alberta,Edmonton,transit,2020-01-22,121.73
+British Columbia,Vancouver,driving,2020-02-29,121.64
+Alberta,Edmonton,transit,2020-02-11,121.59
+Ontario,Ottawa,driving,2020-01-24,121.44
+Alberta,Edmonton,driving,2020-02-13,121.38
+Ontario,Toronto,driving,2020-01-24,120.86
+British Columbia,Vancouver,driving,2020-01-24,120.85
+Ontario,Ottawa,driving,2020-02-07,120.84
+Ontario,Ottawa,walking,2020-03-04,120.78
+Quebec,Montreal,driving,2020-02-10,120.77
+British Columbia,Vancouver,walking,2020-02-24,120.73
+Quebec,Montreal,transit,2020-01-24,120.67
+Quebec,Montreal,transit,2020-02-14,120.66
+Alberta,Calgary,walking,2020-02-24,120.58
+Ontario,Toronto,driving,2020-01-31,120.54
+Alberta,Edmonton,driving,2020-01-18,120.51
+Ontario,Toronto,walking,2020-02-08,120.51
+Ontario,Toronto,walking,2020-01-25,120.48
+Quebec,Montreal,driving,2020-01-31,120.42
+Alberta,Edmonton,transit,2020-02-27,120.3
+British Columbia,Vancouver,walking,2020-02-25,120.24
+Ontario,Toronto,walking,2020-02-20,120.1
+Alberta,Edmonton,transit,2020-01-21,120.08
+Alberta,Edmonton,transit,2020-02-13,120.04
+Alberta,Calgary,transit,2020-02-14,120.03
+Ontario,Ottawa,driving,2020-02-22,120.03
+Alberta,Calgary,walking,2020-02-10,120.02
+British Columbia,Vancouver,driving,2020-02-07,119.86
+Ontario,Ottawa,driving,2020-02-01,119.84
+Alberta,Calgary,transit,2020-01-31,119.8
+Alberta,Edmonton,walking,2020-03-13,119.8
+British Columbia,Vancouver,walking,2020-01-28,119.75
+Ontario,Ottawa,driving,2020-03-06,119.61
+Ontario,Toronto,walking,2020-03-04,119.56
+Alberta,Edmonton,transit,2020-01-20,119.54
+Alberta,Edmonton,transit,2020-01-23,119.53
+Quebec,Montreal,transit,2020-02-28,119.5
+Alberta,Calgary,driving,2020-02-07,119.49
+Alberta,Calgary,driving,2020-02-29,119.33
+Ontario,Toronto,transit,2020-02-21,119.23
+Quebec,Montreal,walking,2020-03-03,119.21
+Alberta,Calgary,transit,2020-01-21,119.2
+Quebec,Montreal,walking,2020-02-13,119.14
+Alberta,Edmonton,walking,2020-02-18,119.08
+Alberta,Edmonton,driving,2020-02-01,119.02
+Quebec,Montreal,walking,2020-03-04,118.95
+British Columbia,Vancouver,driving,2020-01-31,118.83
+Alberta,Edmonton,driving,2020-02-12,118.77
+Alberta,Edmonton,transit,2020-03-06,118.64
+British Columbia,Vancouver,walking,2020-03-01,118.62
+Alberta,Edmonton,walking,2020-02-24,118.45
+Alberta,Edmonton,walking,2020-02-16,118.41
+Ontario,Ottawa,driving,2020-01-17,118.39
+Ontario,Toronto,driving,2020-02-20,118.14
+Quebec,Montreal,walking,2020-01-23,118.09
+British Columbia,Vancouver,walking,2020-03-03,118.08
+Ontario,Toronto,driving,2020-03-06,118.02
+Alberta,Calgary,transit,2020-02-20,117.94
+Alberta,Edmonton,transit,2020-02-28,117.87
+Alberta,Edmonton,walking,2020-03-12,117.86
+Quebec,Montreal,driving,2020-01-17,117.82
+Alberta,Edmonton,driving,2020-02-20,117.8
+Alberta,Edmonton,driving,2020-01-23,117.68
+Quebec,Montreal,driving,2020-02-19,117.55
+Ontario,Toronto,walking,2020-02-07,117.55
+Alberta,Edmonton,walking,2020-01-27,117.53
+Ontario,Ottawa,walking,2020-02-08,117.5
+Alberta,Calgary,transit,2020-01-30,117.45
+Quebec,Montreal,walking,2020-02-20,117.38
+Ontario,Ottawa,driving,2020-02-29,117.3
+Ontario,Toronto,driving,2020-03-05,117.3
+Alberta,Calgary,transit,2020-01-20,117.22
+British Columbia,Vancouver,walking,2020-03-11,116.99
+Alberta,Calgary,transit,2020-01-29,116.83
+Alberta,Edmonton,transit,2020-01-28,116.69
+Alberta,Edmonton,transit,2020-02-06,116.68
+Alberta,Edmonton,driving,2020-02-27,116.57
+British Columbia,Vancouver,walking,2020-03-09,116.52
+British Columbia,Vancouver,walking,2020-02-23,116.49
+Alberta,Calgary,transit,2020-02-07,116.43
+Alberta,Calgary,walking,2020-03-12,116.37
+Ontario,Ottawa,driving,2020-02-08,116.24
+Ontario,Ottawa,walking,2020-02-24,116.21
+Quebec,Montreal,driving,2020-02-13,116.2
+Alberta,Edmonton,driving,2020-02-19,116.11
+Alberta,Edmonton,transit,2020-03-03,116.1
+British Columbia,Vancouver,walking,2020-01-26,115.95
+British Columbia,Vancouver,driving,2020-02-22,115.94
+Quebec,Montreal,walking,2020-03-11,115.92
+British Columbia,Vancouver,walking,2020-02-05,115.89
+Quebec,Montreal,transit,2020-03-05,115.73
+Quebec,Montreal,transit,2020-01-31,115.59
+Alberta,Edmonton,transit,2020-02-19,115.57
+Alberta,Edmonton,transit,2020-03-05,115.5
+Alberta,Calgary,transit,2020-01-22,115.49
+Alberta,Calgary,driving,2020-02-20,115.46
+Alberta,Edmonton,transit,2020-01-24,115.39
+Alberta,Edmonton,driving,2020-01-30,115.33
+Alberta,Edmonton,transit,2020-02-14,115.2
+Ontario,Toronto,driving,2020-02-07,115.1
+Ontario,Toronto,driving,2020-02-29,115.09
+Alberta,Edmonton,transit,2020-02-04,115.08
+Alberta,Edmonton,walking,2020-01-16,115.04
+Ontario,Toronto,walking,2020-03-09,115.03
+Ontario,Ottawa,walking,2020-03-09,114.93
+Quebec,Montreal,walking,2020-01-15,114.86
+British Columbia,Vancouver,transit,2020-02-14,114.54
+British Columbia,Vancouver,driving,2020-02-20,114.43
+Alberta,Edmonton,walking,2020-02-03,114.38
+Alberta,Calgary,driving,2020-01-25,114.36
+Quebec,Montreal,walking,2020-02-12,114.31
+Alberta,Edmonton,transit,2020-02-05,114.27
+Quebec,Montreal,walking,2020-02-19,114.27
+Ontario,Toronto,walking,2020-02-28,114.26
+British Columbia,Vancouver,driving,2020-02-08,114.18
+Quebec,Montreal,driving,2020-03-05,114.17
+Alberta,Edmonton,driving,2020-01-29,114.16
+Ontario,Toronto,driving,2020-02-13,114.14
+Alberta,Edmonton,driving,2020-02-06,114.13
+Alberta,Calgary,transit,2020-01-24,113.99
+British Columbia,Vancouver,walking,2020-02-03,113.92
+Quebec,Montreal,transit,2020-02-07,113.84
+Ontario,Toronto,driving,2020-03-07,113.84
+Alberta,Calgary,driving,2020-02-15,113.75
+Alberta,Edmonton,driving,2020-01-21,113.75
+Ontario,Ottawa,driving,2020-03-07,113.63
+Alberta,Edmonton,transit,2020-01-29,113.5
+Ontario,Ottawa,driving,2020-02-20,113.44
+British Columbia,Vancouver,walking,2020-01-29,113.42
+Alberta,Calgary,driving,2020-01-17,113.39
+Ontario,Toronto,driving,2020-02-15,113.36
+British Columbia,Vancouver,walking,2020-03-13,113.34
+Alberta,Calgary,walking,2020-03-01,113.31
+Quebec,Montreal,transit,2020-02-13,113.2
+Ontario,Toronto,walking,2020-02-13,113.2
+Quebec,Montreal,driving,2020-03-06,113.17
+British Columbia,Vancouver,driving,2020-02-15,113.14
+Alberta,Edmonton,transit,2020-01-31,113.03
+Alberta,Edmonton,transit,2020-01-30,112.99
+Quebec,Montreal,driving,2020-02-15,112.96
+Quebec,Montreal,walking,2020-01-16,112.96
+British Columbia,Vancouver,driving,2020-01-23,112.85
+Alberta,Calgary,driving,2020-02-08,112.8
+Alberta,Calgary,transit,2020-01-28,112.78
+Ontario,Ottawa,driving,2020-03-05,112.76
+Alberta,Edmonton,driving,2020-02-18,112.69
+Ontario,Toronto,driving,2020-02-18,112.68
+Ontario,Ottawa,driving,2020-02-13,112.67
+Alberta,Calgary,transit,2020-02-06,112.65
+Quebec,Montreal,transit,2020-02-10,112.65
+Alberta,Calgary,walking,2020-01-26,112.5
+Alberta,Edmonton,walking,2020-01-14,112.5
+Alberta,Calgary,transit,2020-03-04,112.41
+Ontario,Ottawa,walking,2020-02-04,112.39
+Quebec,Montreal,walking,2020-02-17,112.34
+Ontario,Ottawa,walking,2020-01-30,112.26
+Ontario,Toronto,driving,2020-03-03,112.25
+Quebec,Montreal,transit,2020-02-20,112.23
+British Columbia,Vancouver,driving,2020-02-19,112.23
+Ontario,Toronto,walking,2020-03-03,112.16
+Quebec,Montreal,transit,2020-03-06,112.04
+Alberta,Edmonton,driving,2020-01-16,111.86
+British Columbia,Vancouver,walking,2020-01-19,111.74
+Quebec,Montreal,driving,2020-02-20,111.72
+Alberta,Edmonton,transit,2020-02-24,111.66
+British Columbia,Vancouver,walking,2020-01-16,111.66
+Ontario,Ottawa,walking,2020-01-23,111.62
+Alberta,Edmonton,transit,2020-02-26,111.57
+Alberta,Calgary,driving,2020-02-01,111.52
+British Columbia,Vancouver,driving,2020-02-13,111.52
+Alberta,Edmonton,walking,2020-01-15,111.51
+Alberta,Calgary,transit,2020-01-23,111.5
+Quebec,Montreal,walking,2020-02-07,111.5
+Alberta,Edmonton,driving,2020-03-05,111.38
+Alberta,Edmonton,transit,2020-03-02,111.38
+Alberta,Edmonton,walking,2020-03-14,111.38
+Alberta,Calgary,transit,2020-02-19,111.31
+Alberta,Edmonton,transit,2020-02-07,111.22
+Alberta,Calgary,driving,2020-02-13,111.16
+British Columbia,Vancouver,driving,2020-03-07,111.07
+Quebec,Montreal,walking,2020-01-30,111.04
+Ontario,Toronto,walking,2020-02-19,111
+Quebec,Montreal,transit,2020-02-29,110.81
+Ontario,Ottawa,walking,2020-02-25,110.77
+Quebec,Montreal,walking,2020-03-12,110.76
+Quebec,Montreal,transit,2020-01-17,110.74
+British Columbia,Vancouver,walking,2020-03-12,110.71
+Quebec,Montreal,driving,2020-02-22,110.69
+Ontario,Toronto,driving,2020-03-04,110.69
+Quebec,Montreal,driving,2020-01-16,110.64
+Ontario,Toronto,walking,2020-03-08,110.63
+British Columbia,Vancouver,walking,2020-03-14,110.6
+Alberta,Calgary,driving,2020-02-18,110.56
+Alberta,Calgary,walking,2020-01-16,110.55
+Ontario,Toronto,driving,2020-02-19,110.47
+Quebec,Montreal,transit,2020-02-08,110.31
+Alberta,Edmonton,walking,2020-03-01,110.24
+Alberta,Calgary,transit,2020-02-12,110.22
+British Columbia,Vancouver,driving,2020-03-04,110.2
+Ontario,Ottawa,walking,2020-02-12,110.18
+Quebec,Montreal,driving,2020-02-01,110.1
+Quebec,Montreal,walking,2020-02-25,110.01
+Alberta,Edmonton,transit,2020-02-25,109.92
+Alberta,Calgary,driving,2020-02-19,109.84
+Ontario,Toronto,driving,2020-02-01,109.83
+Alberta,Calgary,walking,2020-02-03,109.81
+Quebec,Montreal,driving,2020-02-11,109.81
+Quebec,Montreal,driving,2020-02-12,109.81
+Quebec,Montreal,transit,2020-03-04,109.8
+Ontario,Ottawa,transit,2020-02-07,109.79
+Ontario,Ottawa,walking,2020-03-03,109.77
+Alberta,Calgary,walking,2020-01-14,109.75
+Ontario,Toronto,walking,2020-01-23,109.61
+Alberta,Edmonton,transit,2020-02-10,109.6
+Ontario,Toronto,transit,2020-01-24,109.45
+Alberta,Edmonton,driving,2020-03-04,109.35
+British Columbia,Vancouver,driving,2020-03-05,109.35
+Alberta,Calgary,transit,2020-03-03,109.33
+Quebec,Montreal,walking,2020-03-09,109.21
+Ontario,Toronto,walking,2020-01-15,109.14
+Alberta,Edmonton,driving,2020-01-28,109.13
+Quebec,Montreal,transit,2020-02-12,109.11
+Ontario,Ottawa,walking,2020-02-20,109.11
+Alberta,Calgary,transit,2020-03-05,108.98
+Ontario,Toronto,walking,2020-02-16,108.96
+Alberta,Edmonton,driving,2020-02-26,108.94
+Quebec,Montreal,transit,2020-01-23,108.94
+Alberta,Edmonton,driving,2020-01-20,108.93
+Ontario,Ottawa,driving,2020-02-18,108.77
+Quebec,Montreal,transit,2020-01-16,108.68
+Quebec,Montreal,transit,2020-02-15,108.67
+British Columbia,Vancouver,driving,2020-02-01,108.66
+Ontario,Ottawa,driving,2020-03-03,108.64
+British Columbia,Vancouver,driving,2020-01-22,108.64
+Quebec,Montreal,walking,2020-01-28,108.6
+Ontario,Toronto,transit,2020-03-05,108.56
+Alberta,Edmonton,driving,2020-03-03,108.45
+Quebec,Montreal,driving,2020-01-23,108.45
+British Columbia,Vancouver,walking,2020-03-02,108.45
+British Columbia,Vancouver,driving,2020-02-18,108.41
+Alberta,Calgary,transit,2020-02-25,108.4
+British Columbia,Vancouver,driving,2020-01-25,108.37
+Quebec,Montreal,transit,2020-03-03,108.35
+Quebec,Montreal,transit,2020-02-06,108.33
+Ontario,Toronto,walking,2020-01-14,108.27
+Alberta,Calgary,transit,2020-02-04,108.22
+Ontario,Ottawa,walking,2020-01-17,108.22
+Alberta,Calgary,driving,2020-02-27,108.2
+Ontario,Ottawa,transit,2020-01-31,108.2
+Alberta,Edmonton,transit,2020-01-27,108.12
+Ontario,Ottawa,driving,2020-03-04,108.05
+British Columbia,Vancouver,walking,2020-03-10,108.03
+Alberta,Edmonton,transit,2020-02-03,108.01
+Quebec,Montreal,walking,2020-03-02,107.97
+Alberta,Edmonton,transit,2020-02-18,107.93
+Quebec,Montreal,driving,2020-01-25,107.93
+Ontario,Ottawa,walking,2020-01-15,107.93
+Alberta,Calgary,driving,2020-03-07,107.91
+Ontario,Toronto,walking,2020-02-18,107.88
+Quebec,Montreal,transit,2020-02-11,107.83
+Ontario,Toronto,driving,2020-02-08,107.83
+Alberta,Calgary,transit,2020-02-18,107.73
+Alberta,Calgary,walking,2020-01-15,107.73
+Quebec,Montreal,walking,2020-03-10,107.72
+British Columbia,Vancouver,driving,2020-01-21,107.72
+Alberta,Calgary,transit,2020-02-27,107.69
+Ontario,Ottawa,walking,2020-01-16,107.67
+Quebec,Montreal,driving,2020-02-29,107.55
+Alberta,Calgary,driving,2020-01-30,107.49
+Quebec,Montreal,transit,2020-01-28,107.47
+Alberta,Calgary,driving,2020-01-23,107.43
+British Columbia,Vancouver,driving,2020-02-27,107.42
+Ontario,Toronto,walking,2020-01-30,107.41
+Ontario,Toronto,walking,2020-01-16,107.4
+Alberta,Calgary,transit,2020-02-24,107.37
+Quebec,Montreal,walking,2020-01-22,107.28
+Alberta,Calgary,driving,2020-01-18,107.23
+Ontario,Toronto,driving,2020-01-16,107.2
+Alberta,Edmonton,driving,2020-02-25,107.17
+Ontario,Ottawa,driving,2020-01-23,107.11
+Alberta,Edmonton,transit,2020-02-20,107.09
+Quebec,Montreal,driving,2020-01-22,107.09
+Ontario,Toronto,transit,2020-01-31,107.06
+Quebec,Montreal,transit,2020-01-22,107.05
+British Columbia,Vancouver,transit,2020-02-29,106.99
+Ontario,Toronto,walking,2020-02-24,106.95
+Alberta,Calgary,driving,2020-03-05,106.94
+Alberta,Edmonton,driving,2020-02-05,106.93
+British Columbia,Vancouver,driving,2020-02-06,106.86
+Ontario,Toronto,walking,2020-01-22,106.82
+Alberta,Calgary,transit,2020-01-27,106.79
+Ontario,Toronto,walking,2020-02-23,106.78
+Quebec,Montreal,transit,2020-02-19,106.72
+Quebec,Montreal,driving,2020-01-15,106.71
+Ontario,Ottawa,transit,2020-01-24,106.7
+Ontario,Ottawa,walking,2020-01-28,106.69
+Quebec,Montreal,driving,2020-02-18,106.67
+Alberta,Calgary,transit,2020-02-10,106.64
+British Columbia,Vancouver,driving,2020-02-26,106.61
+Alberta,Calgary,driving,2020-03-04,106.58
+Alberta,Calgary,driving,2020-01-22,106.57
+British Columbia,Vancouver,walking,2020-02-02,106.51
+Quebec,Montreal,driving,2020-03-04,106.48
+Alberta,Edmonton,driving,2020-03-10,106.45
+Ontario,Toronto,transit,2020-02-14,106.43
+Ontario,Toronto,driving,2020-01-25,106.37
+British Columbia,Vancouver,driving,2020-02-12,106.29
+Alberta,Edmonton,driving,2020-02-04,106.16
+Ontario,Ottawa,driving,2020-02-12,106.16
+Alberta,Edmonton,transit,2020-02-21,106.11
+Quebec,Montreal,driving,2020-03-03,106.11
+Alberta,Calgary,transit,2020-02-05,106.07
+Ontario,Toronto,walking,2020-02-25,106.05
+Ontario,Toronto,transit,2020-02-20,106.04
+British Columbia,Vancouver,transit,2020-02-21,106.04
+Quebec,Montreal,transit,2020-01-30,105.93
+Ontario,Toronto,walking,2020-02-12,105.93
+Quebec,Montreal,driving,2020-03-10,105.89
+Quebec,Montreal,walking,2020-02-05,105.88
+Ontario,Ottawa,driving,2020-02-19,105.87
+Alberta,Calgary,transit,2020-02-11,105.83
+Ontario,Ottawa,walking,2020-02-05,105.82
+Ontario,Toronto,driving,2020-01-23,105.81
+Ontario,Toronto,driving,2020-02-25,105.8
+Ontario,Ottawa,driving,2020-01-22,105.79
+Ontario,Ottawa,walking,2020-02-10,105.75
+British Columbia,Vancouver,driving,2020-01-17,105.74
+Alberta,Edmonton,driving,2020-03-11,105.73
+Quebec,Montreal,walking,2020-02-11,105.72
+Ontario,Ottawa,driving,2020-01-16,105.64
+Ontario,Toronto,transit,2020-01-17,105.64
+Ontario,Ottawa,walking,2020-01-29,105.59
+Alberta,Calgary,transit,2020-02-03,105.57
+Ontario,Ottawa,walking,2020-02-11,105.57
+Quebec,Montreal,transit,2020-01-21,105.56
+Ontario,Toronto,walking,2020-02-11,105.44
+Ontario,Toronto,driving,2020-01-14,105.38
+Ontario,Toronto,transit,2020-02-13,105.34
+Ontario,Ottawa,driving,2020-01-30,105.33
+Quebec,Montreal,walking,2020-02-18,105.32
+Alberta,Calgary,driving,2020-02-06,105.3
+British Columbia,Vancouver,walking,2020-01-14,105.24
+Ontario,Ottawa,walking,2020-02-19,105.21
+Alberta,Edmonton,transit,2020-03-10,105.18
+Quebec,Montreal,transit,2020-02-27,105.07
+Ontario,Toronto,transit,2020-02-18,105.01
+Quebec,Montreal,walking,2020-02-06,105
+British Columbia,Vancouver,driving,2020-02-25,104.99
+Alberta,Calgary,walking,2020-02-23,104.94
+Ontario,Ottawa,walking,2020-01-25,104.9
+British Columbia,Vancouver,transit,2020-01-24,104.87
+Ontario,Toronto,walking,2020-03-02,104.85
+Quebec,Montreal,driving,2020-03-11,104.81
+Quebec,Montreal,walking,2020-02-04,104.77
+Alberta,Calgary,transit,2020-02-26,104.76
+Alberta,Edmonton,driving,2020-01-15,104.72
+Ontario,Toronto,driving,2020-02-12,104.66
+Alberta,Edmonton,transit,2020-01-17,104.64
+Quebec,Montreal,driving,2020-02-25,104.64
+Ontario,Toronto,walking,2020-03-10,104.64
+British Columbia,Vancouver,transit,2020-01-17,104.61
+Ontario,Toronto,driving,2020-01-22,104.59
+Ontario,Ottawa,driving,2020-01-28,104.58
+Alberta,Edmonton,driving,2020-03-02,104.57
+Quebec,Montreal,driving,2020-02-06,104.56
+Quebec,Montreal,transit,2020-02-22,104.54
+Quebec,Montreal,walking,2020-01-29,104.53
+Ontario,Toronto,driving,2020-01-30,104.53
+Alberta,Calgary,driving,2020-01-21,104.51
+Alberta,Edmonton,transit,2020-01-16,104.48
+Ontario,Toronto,walking,2020-01-28,104.44
+Ontario,Toronto,walking,2020-01-29,104.38
+Quebec,Montreal,driving,2020-01-30,104.35
+Ontario,Ottawa,driving,2020-01-14,104.33
+Quebec,Montreal,transit,2020-01-20,104.29
+Quebec,Montreal,transit,2020-01-15,104.22
+Ontario,Ottawa,driving,2020-01-15,104.19
+Quebec,Montreal,walking,2020-02-26,104.09
+Ontario,Toronto,transit,2020-01-22,104.07
+Alberta,Calgary,transit,2020-03-02,103.99
+Alberta,Calgary,driving,2020-03-03,103.94
+Ontario,Ottawa,walking,2020-03-11,103.94
+Quebec,Montreal,transit,2020-03-02,103.93
+Ontario,Ottawa,transit,2020-01-15,103.9
+Ontario,Ottawa,walking,2020-03-02,103.87
+British Columbia,Vancouver,driving,2020-01-20,103.84
+Alberta,Calgary,driving,2020-02-12,103.78
+Alberta,Calgary,walking,2020-03-08,103.73
+Quebec,Montreal,transit,2020-02-05,103.72
+Ontario,Ottawa,driving,2020-02-16,103.71
+Alberta,Edmonton,walking,2020-01-26,103.64
+Alberta,Calgary,driving,2020-01-29,103.61
+Ontario,Ottawa,driving,2020-01-29,103.6
+Ontario,Toronto,walking,2020-02-04,103.55
+Alberta,Edmonton,driving,2020-03-13,103.52
+Alberta,Calgary,driving,2020-02-26,103.35
+Ontario,Ottawa,walking,2020-03-10,103.29
+Alberta,Calgary,driving,2020-01-16,103.28
+Ontario,Ottawa,driving,2020-02-10,103.28
+Quebec,Montreal,walking,2020-02-24,103.27
+Quebec,Montreal,transit,2020-02-01,103.2
+Ontario,Ottawa,transit,2020-01-14,103.2
+British Columbia,Vancouver,transit,2020-03-06,103.19
+Quebec,Montreal,walking,2020-01-14,103.16
+Ontario,Toronto,driving,2020-02-11,103.16
+Quebec,Montreal,driving,2020-02-17,103.11
+Alberta,Calgary,driving,2020-02-25,103.07
+British Columbia,Vancouver,driving,2020-01-30,103.07
+Quebec,Montreal,walking,2020-01-27,103.04
+Alberta,Calgary,transit,2020-03-10,102.98
+Alberta,Edmonton,driving,2020-01-14,102.98
+Ontario,Ottawa,driving,2020-02-25,102.97
+Ontario,Ottawa,walking,2020-02-13,102.96
+Alberta,Calgary,driving,2020-01-28,102.95
+Ontario,Toronto,driving,2020-02-05,102.94
+British Columbia,Vancouver,driving,2020-02-11,102.85
+Alberta,Edmonton,walking,2020-02-23,102.78
+Alberta,Edmonton,driving,2020-01-27,102.72
+Quebec,Montreal,driving,2020-03-07,102.71
+British Columbia,Vancouver,driving,2020-03-03,102.7
+Ontario,Toronto,transit,2020-01-23,102.69
+Ontario,Toronto,transit,2020-02-22,102.69
+Quebec,Montreal,driving,2020-02-08,102.63
+Quebec,Montreal,transit,2020-02-18,102.58
+Ontario,Toronto,driving,2020-03-02,102.49
+Alberta,Edmonton,driving,2020-02-10,102.48
+Ontario,Toronto,driving,2020-03-10,102.48
+Ontario,Ottawa,walking,2020-01-14,102.42
+Ontario,Toronto,driving,2020-01-15,102.42
+Ontario,Toronto,transit,2020-01-14,102.39
+Alberta,Edmonton,driving,2020-03-12,102.34
+Alberta,Calgary,driving,2020-02-04,102.19
+Alberta,Calgary,transit,2020-03-11,102.18
+Alberta,Edmonton,walking,2020-02-09,102.11
+Ontario,Ottawa,walking,2020-01-22,102.1
+Quebec,Montreal,transit,2020-02-04,102.06
+Ontario,Toronto,transit,2020-02-19,102.06
+Quebec,Montreal,walking,2020-02-10,102.05
+Ontario,Ottawa,transit,2020-03-05,102.01
+Ontario,Ottawa,transit,2020-01-17,101.97
+Alberta,Calgary,driving,2020-01-14,101.94
+Ontario,Toronto,driving,2020-01-29,101.89
+Alberta,Calgary,walking,2020-03-13,101.87
+Alberta,Edmonton,driving,2020-03-09,101.84
+British Columbia,Vancouver,transit,2020-02-08,101.81
+Ontario,Toronto,driving,2020-01-21,101.79
+Alberta,Edmonton,transit,2020-03-09,101.69
+Ontario,Ottawa,driving,2020-02-11,101.65
+Quebec,Montreal,driving,2020-02-26,101.59
+Ontario,Ottawa,walking,2020-01-27,101.59
+Ontario,Ottawa,walking,2020-02-06,101.56
+Ontario,Toronto,driving,2020-01-20,101.53
+Quebec,Montreal,walking,2020-03-08,101.52
+Alberta,Edmonton,driving,2020-02-24,101.5
+Quebec,Montreal,transit,2020-02-26,101.46
+Quebec,Montreal,walking,2020-02-27,101.46
+Ontario,Toronto,transit,2020-02-28,101.46
+Quebec,Montreal,transit,2020-01-25,101.45
+Quebec,Montreal,transit,2020-01-27,101.45
+Alberta,Calgary,driving,2020-02-11,101.44
+Quebec,Montreal,transit,2020-03-10,101.42
+Ontario,Toronto,driving,2020-02-27,101.35
+Ontario,Toronto,walking,2020-01-18,101.32
+Quebec,Montreal,transit,2020-02-25,101.31
+Ontario,Ottawa,walking,2020-01-20,101.27
+Ontario,Toronto,transit,2020-02-07,101.27
+Ontario,Ottawa,walking,2020-02-03,101.26
+Ontario,Toronto,transit,2020-03-06,101.25
+Quebec,Montreal,driving,2020-02-05,101.23
+Ontario,Ottawa,driving,2020-02-06,101.21
+British Columbia,Vancouver,driving,2020-01-14,101.21
+Quebec,Montreal,transit,2020-02-17,101.2
+Alberta,Edmonton,transit,2020-01-14,101.15
+Ontario,Ottawa,transit,2020-01-16,101.13
+Ontario,Ottawa,transit,2020-01-22,101.13
+Quebec,Montreal,transit,2020-01-29,101.12
+Ontario,Toronto,transit,2020-03-04,101.12
+Quebec,Montreal,driving,2020-03-12,101.11
+Quebec,Montreal,transit,2020-01-18,101.08
+Quebec,Montreal,transit,2020-03-09,101.05
+Quebec,Montreal,driving,2020-01-14,101.01
+Quebec,Montreal,driving,2020-03-02,101
+Alberta,Edmonton,transit,2020-03-11,100.98
+Alberta,Edmonton,walking,2020-02-02,100.98
+Alberta,Calgary,transit,2020-03-09,100.97
+Quebec,Montreal,driving,2020-02-07,100.95
+Ontario,Toronto,walking,2020-02-05,100.94
+Ontario,Toronto,walking,2020-03-11,100.89
+British Columbia,Vancouver,transit,2020-02-28,100.88
+Quebec,Montreal,transit,2020-01-14,100.85
+Alberta,Calgary,driving,2020-01-20,100.75
+Alberta,Edmonton,walking,2020-03-08,100.7
+Quebec,Montreal,walking,2020-01-21,100.68
+Quebec,Montreal,driving,2020-01-29,100.67
+Ontario,Toronto,transit,2020-01-15,100.57
+Alberta,Calgary,driving,2020-01-15,100.5
+Ontario,Toronto,transit,2020-01-30,100.49
+Quebec,Montreal,driving,2020-01-21,100.45
+British Columbia,Vancouver,driving,2020-03-02,100.43
+Alberta,Calgary,walking,2020-02-02,100.42
+Ontario,Toronto,driving,2020-03-09,100.41
+Ontario,Ottawa,transit,2020-01-30,100.4
+Quebec,Montreal,driving,2020-01-18,100.38
+Ontario,Ottawa,driving,2020-01-21,100.35
+Quebec,Montreal,transit,2020-03-07,100.34
+Ontario,Toronto,driving,2020-02-24,100.31
+Alberta,Calgary,driving,2020-02-05,100.27
+British Columbia,Vancouver,driving,2020-02-05,100.22
+Ontario,Ottawa,transit,2020-03-06,100.09
+Alberta,Edmonton,transit,2020-01-15,100.08
+Alberta,Edmonton,driving,2020-02-03,100.05
+Ontario,Ottawa,walking,2020-01-21,100.04
+Ontario,Ottawa,transit,2020-01-21,100.01
+Alberta,Calgary,driving,2020-01-13,100
+Alberta,Calgary,transit,2020-01-13,100
+Alberta,Calgary,walking,2020-01-13,100
+Alberta,Edmonton,driving,2020-01-13,100
+Alberta,Edmonton,transit,2020-01-13,100
+Alberta,Edmonton,walking,2020-01-13,100
+Quebec,Montreal,driving,2020-01-13,100
+Quebec,Montreal,transit,2020-01-13,100
+Quebec,Montreal,walking,2020-01-13,100
+Ontario,Ottawa,driving,2020-01-13,100
+Ontario,Ottawa,transit,2020-01-13,100
+Ontario,Ottawa,walking,2020-01-13,100
+Ontario,Toronto,driving,2020-01-13,100
+Ontario,Toronto,transit,2020-01-13,100
+Ontario,Toronto,walking,2020-01-13,100
+British Columbia,Vancouver,driving,2020-01-13,100
+British Columbia,Vancouver,transit,2020-01-13,100
+British Columbia,Vancouver,transit,2020-02-07,100
+British Columbia,Vancouver,walking,2020-01-13,100
+Ontario,Toronto,walking,2020-02-03,99.94
+Alberta,Calgary,transit,2020-02-22,99.8
+Ontario,Ottawa,driving,2020-01-25,99.75
+Ontario,Toronto,driving,2020-02-04,99.63
+Ontario,Ottawa,driving,2020-03-02,99.58
+Ontario,Ottawa,driving,2020-02-05,99.54
+Ontario,Toronto,driving,2020-02-06,99.53
+Quebec,Montreal,driving,2020-01-20,99.49
+Alberta,Edmonton,driving,2020-02-16,99.46
+Ontario,Ottawa,driving,2020-02-24,99.44
+British Columbia,Vancouver,walking,2020-02-04,99.42
+Ontario,Toronto,transit,2020-01-16,99.41
+Quebec,Montreal,walking,2020-03-13,99.4
+Ontario,Toronto,driving,2020-01-28,99.4
+Ontario,Ottawa,driving,2020-03-10,99.37
+Ontario,Toronto,walking,2020-01-21,99.36
+British Columbia,Vancouver,driving,2020-01-29,99.32
+Ontario,Toronto,transit,2020-03-03,99.29
+Ontario,Ottawa,transit,2020-01-23,99.26
+Quebec,Montreal,driving,2020-02-27,99.23
+British Columbia,Vancouver,driving,2020-03-11,99.21
+British Columbia,Vancouver,transit,2020-02-22,99.21
+Ontario,Ottawa,walking,2020-02-18,99.17
+Quebec,Montreal,transit,2020-03-11,99.13
+Ontario,Ottawa,walking,2020-03-12,99.13
+Ontario,Toronto,walking,2020-02-10,99.13
+British Columbia,Vancouver,driving,2020-02-10,99.1
+Ontario,Ottawa,transit,2020-01-28,99.02
+British Columbia,Vancouver,driving,2020-02-16,98.97
+British Columbia,Vancouver,transit,2020-02-15,98.97
+Ontario,Toronto,driving,2020-03-11,98.95
+Ontario,Ottawa,walking,2020-03-13,98.92
+Quebec,Montreal,walking,2020-03-14,98.89
+Ontario,Ottawa,driving,2020-02-04,98.79
+Ontario,Toronto,transit,2020-01-21,98.78
+Ontario,Ottawa,transit,2020-02-28,98.73
+Ontario,Ottawa,walking,2020-02-26,98.7
+Quebec,Montreal,transit,2020-02-03,98.69
+British Columbia,Vancouver,driving,2020-01-28,98.68
+Ontario,Ottawa,transit,2020-03-04,98.67
+Alberta,Calgary,driving,2020-03-11,98.59
+Ontario,Toronto,driving,2020-02-10,98.57
+Quebec,Montreal,walking,2020-03-01,98.56
+Quebec,Montreal,driving,2020-01-28,98.5
+British Columbia,Vancouver,driving,2020-02-24,98.5
+Alberta,Calgary,transit,2020-02-29,98.49
+British Columbia,Vancouver,transit,2020-02-19,98.09
+Quebec,Montreal,driving,2020-02-24,98.02
+Quebec,Montreal,transit,2020-02-24,97.94
+British Columbia,Vancouver,driving,2020-01-18,97.94
+Alberta,Calgary,driving,2020-03-10,97.91
+Alberta,Calgary,walking,2020-02-09,97.82
+Ontario,Ottawa,walking,2020-03-08,97.77
+Alberta,Calgary,transit,2020-01-17,97.68
+Alberta,Calgary,transit,2020-01-14,97.6
+Alberta,Calgary,driving,2020-02-24,97.58
+Quebec,Montreal,driving,2020-03-09,97.58
+Alberta,Calgary,driving,2020-02-10,97.51
+Ontario,Ottawa,driving,2020-01-20,97.49
+British Columbia,Vancouver,driving,2020-03-10,97.44
+Alberta,Calgary,driving,2020-03-02,97.43
+Quebec,Montreal,walking,2020-02-23,97.43
+Ontario,Toronto,transit,2020-02-25,97.42
+Ontario,Toronto,transit,2020-02-04,97.41
+Ontario,Toronto,transit,2020-01-28,97.32
+Ontario,Ottawa,transit,2020-01-29,97.29
+Quebec,Montreal,driving,2020-02-04,97.22
+British Columbia,Vancouver,driving,2020-03-09,97.18
+Ontario,Ottawa,driving,2020-03-11,97.01
+Alberta,Calgary,transit,2020-02-15,97
+British Columbia,Vancouver,driving,2020-01-27,96.92
+British Columbia,Vancouver,transit,2020-01-16,96.86
+British Columbia,Vancouver,transit,2020-02-18,96.72
+Ontario,Toronto,transit,2020-01-29,96.71
+British Columbia,Vancouver,transit,2020-02-20,96.7
+Ontario,Toronto,transit,2020-01-20,96.55
+Ontario,Toronto,transit,2020-02-12,96.55
+British Columbia,Vancouver,transit,2020-01-18,96.55
+Ontario,Ottawa,transit,2020-02-21,96.5
+Ontario,Toronto,transit,2020-03-02,96.47
+Ontario,Ottawa,driving,2020-01-18,96.45
+British Columbia,Vancouver,transit,2020-02-01,96.45
+Alberta,Edmonton,transit,2020-03-12,96.43
+Ontario,Toronto,transit,2020-02-24,96.38
+Ontario,Toronto,transit,2020-02-11,96.37
+Alberta,Calgary,driving,2020-01-27,96.35
+Alberta,Calgary,transit,2020-01-16,96.35
+Alberta,Edmonton,driving,2020-03-01,96.32
+Ontario,Toronto,driving,2020-03-12,96.3
+Ontario,Ottawa,driving,2020-02-26,96.26
+Ontario,Toronto,walking,2020-03-12,96.24
+Alberta,Calgary,walking,2020-01-19,96.13
+Quebec,Montreal,walking,2020-02-03,96.08
+Alberta,Calgary,driving,2020-02-03,96.04
+Ontario,Toronto,transit,2020-02-29,96
+Ontario,Ottawa,driving,2020-03-13,95.95
+Ontario,Toronto,driving,2020-02-03,95.9
+Ontario,Ottawa,transit,2020-01-27,95.86
+Ontario,Toronto,walking,2020-03-01,95.86
+Ontario,Ottawa,transit,2020-01-20,95.82
+Ontario,Ottawa,driving,2020-03-09,95.8
+Ontario,Toronto,transit,2020-03-09,95.76
+British Columbia,Vancouver,transit,2020-03-07,95.74
+British Columbia,Vancouver,driving,2020-03-13,95.67
+Alberta,Calgary,transit,2020-02-01,95.66
+Quebec,Montreal,driving,2020-01-27,95.66
+British Columbia,Vancouver,transit,2020-01-25,95.56
+Ontario,Toronto,driving,2020-02-26,95.55
+Ontario,Toronto,driving,2020-03-13,95.52
+Alberta,Calgary,transit,2020-01-25,95.42
+British Columbia,Vancouver,transit,2020-01-20,95.33
+Ontario,Ottawa,walking,2020-02-23,95.12
+Ontario,Ottawa,driving,2020-01-27,94.92
+Ontario,Toronto,transit,2020-02-03,94.87
+Ontario,Toronto,transit,2020-03-07,94.85
+British Columbia,Vancouver,transit,2020-01-23,94.77
+Ontario,Ottawa,transit,2020-02-04,94.63
+Ontario,Ottawa,transit,2020-02-11,94.61
+British Columbia,Vancouver,driving,2020-03-12,94.38
+Ontario,Toronto,walking,2020-02-06,94.36
+Ontario,Toronto,driving,2020-02-23,94.34
+Ontario,Toronto,transit,2020-02-10,94.28
+Ontario,Toronto,walking,2020-01-20,94.25
+Ontario,Toronto,walking,2020-01-27,94.25
+British Columbia,Vancouver,driving,2020-02-03,94.2
+Ontario,Ottawa,walking,2020-02-17,94.15
+Ontario,Toronto,transit,2020-02-05,94.07
+Ontario,Toronto,driving,2020-01-27,94.06
+Ontario,Ottawa,transit,2020-03-03,94
+British Columbia,Vancouver,transit,2020-01-21,94
+Quebec,Montreal,walking,2020-01-20,93.97
+Ontario,Toronto,walking,2020-02-27,93.96
+Ontario,Toronto,transit,2020-02-01,93.93
+British Columbia,Vancouver,transit,2020-01-14,93.81
+British Columbia,Vancouver,transit,2020-01-22,93.68
+Ontario,Toronto,transit,2020-01-27,93.65
+Alberta,Calgary,driving,2020-03-09,93.64
+Ontario,Toronto,transit,2020-02-06,93.59
+Ontario,Ottawa,driving,2020-03-12,93.51
+Ontario,Toronto,driving,2020-02-16,93.46
+British Columbia,Vancouver,transit,2020-01-31,93.45
+Ontario,Ottawa,transit,2020-02-13,93.38
+Ontario,Ottawa,walking,2020-01-18,93.37
+Alberta,Edmonton,transit,2020-02-29,93.23
+Alberta,Calgary,driving,2020-03-12,93.08
+Ontario,Toronto,walking,2020-03-13,93.02
+Ontario,Ottawa,transit,2020-02-12,92.98
+Ontario,Ottawa,transit,2020-03-02,92.95
+Ontario,Ottawa,transit,2020-02-06,92.75
+Ontario,Ottawa,driving,2020-02-03,92.52
+Quebec,Montreal,transit,2020-02-16,92.21
+Alberta,Calgary,transit,2020-02-08,92.12
+British Columbia,Vancouver,transit,2020-02-13,92.11
+Alberta,Calgary,transit,2020-01-15,92.02
+Alberta,Edmonton,walking,2020-03-16,91.93
+Ontario,Toronto,transit,2020-02-27,91.91
+Quebec,Montreal,driving,2020-02-03,91.84
+Ontario,Ottawa,transit,2020-02-05,91.7
+British Columbia,Vancouver,transit,2020-03-04,91.62
+Ontario,Ottawa,transit,2020-02-03,91.54
+Ontario,Toronto,transit,2020-02-08,91.5
+Ontario,Toronto,transit,2020-02-15,91.48
+Quebec,Montreal,walking,2020-02-02,91.4
+Ontario,Ottawa,transit,2020-02-20,91.39
+Alberta,Edmonton,driving,2020-02-23,91.36
+Alberta,Edmonton,walking,2020-01-19,91.34
+Ontario,Ottawa,walking,2020-02-02,91.3
+Ontario,Ottawa,walking,2020-02-27,91.3
+Alberta,Calgary,walking,2020-02-17,91.18
+Ontario,Ottawa,walking,2020-03-14,91.17
+Ontario,Toronto,transit,2020-03-10,91.15
+Ontario,Toronto,transit,2020-02-26,91.14
+British Columbia,Vancouver,walking,2020-01-15,91.04
+British Columbia,Vancouver,driving,2020-03-01,91.03
+Ontario,Ottawa,transit,2020-03-09,90.95
+Ontario,Ottawa,transit,2020-03-10,90.81
+Ontario,Ottawa,transit,2020-03-07,90.8
+Ontario,Toronto,transit,2020-01-25,90.8
+Ontario,Toronto,walking,2020-02-26,90.75
+Alberta,Calgary,driving,2020-02-16,90.53
+Ontario,Ottawa,transit,2020-02-10,90.44
+Quebec,Montreal,driving,2020-03-13,90.32
+Ontario,Ottawa,driving,2020-02-23,90.14
+Alberta,Calgary,transit,2020-03-07,90.08
+British Columbia,Vancouver,driving,2020-02-09,90.05
+Quebec,Montreal,transit,2020-03-12,89.87
+British Columbia,Vancouver,driving,2020-02-23,89.83
+Alberta,Edmonton,walking,2020-04-16,89.72
+Alberta,Calgary,driving,2020-03-13,89.7
+British Columbia,Vancouver,driving,2020-03-08,89.67
+Ontario,Toronto,transit,2020-03-11,89.65
+Ontario,Toronto,driving,2020-03-08,89.61
+Quebec,Montreal,driving,2020-02-16,89.36
+Alberta,Calgary,transit,2020-03-12,89.22
+Ontario,Ottawa,transit,2020-02-29,89.2
+Ontario,Ottawa,transit,2020-01-25,89.15
+Ontario,Ottawa,walking,2020-03-01,89.15
+British Columbia,Vancouver,transit,2020-02-16,89.15
+Ontario,Ottawa,transit,2020-02-14,89.08
+Ontario,Ottawa,transit,2020-02-24,88.99
+British Columbia,Vancouver,transit,2020-02-06,88.88
+Ontario,Ottawa,transit,2020-02-25,88.81
+Alberta,Edmonton,driving,2020-02-02,88.71
+British Columbia,Vancouver,transit,2020-02-27,88.43
+Alberta,Calgary,walking,2020-04-09,88.37
+Quebec,Montreal,transit,2020-03-01,88.28
+Quebec,Montreal,walking,2020-02-09,88.24
+British Columbia,Vancouver,driving,2020-02-17,88.19
+Alberta,Edmonton,driving,2020-01-26,88.11
+Alberta,Calgary,walking,2020-03-14,88.01
+Ontario,Ottawa,transit,2020-02-01,88.01
+Alberta,Edmonton,driving,2020-02-09,87.91
+British Columbia,Vancouver,transit,2020-02-12,87.71
+Alberta,Calgary,driving,2020-02-23,87.66
+British Columbia,Vancouver,transit,2020-02-17,87.66
+British Columbia,Vancouver,transit,2020-02-11,87.62
+Ontario,Ottawa,transit,2020-02-27,87.56
+Alberta,Edmonton,transit,2020-02-22,87.17
+Ontario,Ottawa,driving,2020-03-01,87.16
+Ontario,Ottawa,driving,2020-02-17,87.13
+British Columbia,Vancouver,walking,2020-03-15,87.1
+British Columbia,Vancouver,transit,2020-03-05,87.07
+Quebec,Montreal,transit,2020-02-09,87.03
+Ontario,Ottawa,driving,2020-02-02,86.99
+Alberta,Calgary,walking,2020-03-16,86.9
+British Columbia,Vancouver,transit,2020-01-27,86.83
+Alberta,Edmonton,transit,2020-02-08,86.78
+Quebec,Montreal,walking,2020-01-26,86.78
+British Columbia,Vancouver,transit,2020-01-15,86.78
+British Columbia,Vancouver,transit,2020-02-24,86.78
+British Columbia,Vancouver,driving,2020-02-04,86.66
+Alberta,Calgary,driving,2020-03-01,86.58
+British Columbia,Vancouver,transit,2020-03-03,86.57
+Alberta,Edmonton,driving,2020-03-14,86.52
+Alberta,Edmonton,driving,2020-03-08,86.51
+British Columbia,Vancouver,transit,2020-02-10,86.51
+Ontario,Toronto,driving,2020-03-01,86.44
+Alberta,Edmonton,transit,2020-03-13,86.34
+Ontario,Ottawa,transit,2020-02-18,86.32
+British Columbia,Vancouver,transit,2020-02-26,86.25
+British Columbia,Vancouver,transit,2020-02-05,86.19
+Ontario,Ottawa,driving,2020-02-09,86.17
+Ontario,Ottawa,transit,2020-02-19,86.1
+Ontario,Toronto,driving,2020-01-18,86.03
+Alberta,Edmonton,driving,2020-01-19,85.96
+British Columbia,Vancouver,driving,2020-01-16,85.84
+Alberta,Calgary,walking,2020-04-16,85.81
+British Columbia,Vancouver,driving,2020-01-26,85.8
+Ontario,Toronto,walking,2020-03-14,85.78
+Alberta,Edmonton,transit,2020-03-07,85.69
+Ontario,Ottawa,driving,2020-02-27,85.56
+British Columbia,Vancouver,transit,2020-03-02,85.44
+Ontario,Ottawa,transit,2020-01-18,85.21
+Ontario,Toronto,transit,2020-01-18,85
+British Columbia,Vancouver,transit,2020-02-25,84.92
+Ontario,Ottawa,driving,2020-03-08,84.87
+Quebec,Montreal,walking,2020-01-19,84.83
+Alberta,Edmonton,walking,2020-03-27,84.8
+Alberta,Edmonton,walking,2020-03-20,84.77
+British Columbia,Vancouver,transit,2020-02-03,84.74
+Alberta,Edmonton,walking,2020-04-09,84.73
+Ontario,Ottawa,walking,2020-01-26,84.7
+Ontario,Toronto,walking,2020-02-17,84.58
+Ontario,Ottawa,transit,2020-03-11,84.56
+Alberta,Edmonton,walking,2020-02-17,84.49
+British Columbia,Vancouver,transit,2020-01-30,84.49
+Ontario,Ottawa,transit,2020-02-26,84.46
+Quebec,Montreal,transit,2020-03-08,84.39
+Alberta,Edmonton,transit,2020-02-15,84.28
+British Columbia,Vancouver,walking,2020-03-16,84.16
+British Columbia,Vancouver,transit,2020-01-28,83.96
+Quebec,Montreal,driving,2020-02-02,83.64
+Alberta,Edmonton,walking,2020-03-17,83.57
+Quebec,Montreal,driving,2020-03-01,83.46
+Ontario,Ottawa,walking,2020-02-09,83.37
+British Columbia,Vancouver,driving,2020-03-14,83.21
+Alberta,Edmonton,driving,2020-02-17,83.2
+Quebec,Montreal,transit,2020-02-23,82.93
+Alberta,Edmonton,transit,2020-01-25,82.92
+Alberta,Calgary,transit,2020-02-17,82.91
+Alberta,Calgary,driving,2020-02-09,82.88
+Ontario,Toronto,driving,2020-02-09,82.85
+Ontario,Toronto,transit,2020-02-23,82.78
+Quebec,Montreal,transit,2020-02-02,82.75
+Ontario,Ottawa,walking,2020-01-19,82.64
+British Columbia,Vancouver,transit,2020-02-09,82.57
+Quebec,Montreal,transit,2020-01-19,82.55
+Ontario,Toronto,walking,2020-02-09,82.53
+Quebec,Montreal,driving,2020-02-23,82.46
+Ontario,Ottawa,transit,2020-02-08,82.4
+British Columbia,Vancouver,transit,2020-01-29,82.32
+Ontario,Toronto,transit,2020-03-12,82.3
+British Columbia,Vancouver,transit,2020-03-08,82.27
+Ontario,Ottawa,driving,2020-03-14,82.05
+British Columbia,Vancouver,transit,2020-02-04,81.85
+British Columbia,Vancouver,transit,2020-03-01,81.56
+British Columbia,Vancouver,transit,2020-03-09,81.5
+Alberta,Calgary,transit,2020-01-18,81.31
+Quebec,Montreal,transit,2020-01-26,81.04
+British Columbia,Vancouver,driving,2020-02-02,81.01
+Ontario,Toronto,walking,2020-01-26,80.8
+Alberta,Calgary,driving,2020-01-19,80.72
+Quebec,Montreal,driving,2020-03-08,80.61
+Alberta,Calgary,driving,2020-02-02,80.58
+Alberta,Calgary,driving,2020-03-08,80.53
+Ontario,Ottawa,transit,2020-02-22,80.53
+Alberta,Edmonton,walking,2020-03-18,80.48
+British Columbia,Vancouver,transit,2020-03-11,80.43
+Alberta,Edmonton,transit,2020-02-01,80.22
+British Columbia,Vancouver,driving,2020-01-19,80.17
+Alberta,Edmonton,walking,2020-04-15,80.07
+Alberta,Calgary,driving,2020-01-26,79.77
+British Columbia,Vancouver,transit,2020-03-10,79.71
+British Columbia,Vancouver,transit,2020-02-23,79.62
+British Columbia,Vancouver,transit,2020-01-26,79.43
+Quebec,Montreal,driving,2020-02-09,79.27
+Alberta,Edmonton,walking,2020-03-15,78.97
+Ontario,Toronto,transit,2020-03-08,78.97
+British Columbia,Vancouver,transit,2020-01-19,78.93
+Ontario,Toronto,driving,2020-01-26,78.9
+Ontario,Toronto,walking,2020-01-19,78.84
+Ontario,Toronto,walking,2020-02-02,78.76
+Alberta,Calgary,transit,2020-02-02,78.56
+Ontario,Ottawa,transit,2020-02-15,78.45
+Alberta,Calgary,driving,2020-02-17,78.39
+Ontario,Ottawa,transit,2020-02-02,78.39
+Alberta,Calgary,transit,2020-01-19,78.28
+Ontario,Toronto,transit,2020-03-01,78.23
+Ontario,Toronto,transit,2020-02-16,78.1
+Ontario,Toronto,driving,2020-01-19,78.09
+Alberta,Edmonton,transit,2020-01-18,77.9
+Alberta,Edmonton,walking,2020-03-19,77.87
+Ontario,Toronto,driving,2020-02-17,77.81
+Alberta,Edmonton,walking,2020-04-08,77.74
+Ontario,Ottawa,transit,2020-03-12,77.56
+Ontario,Toronto,driving,2020-03-14,77.54
+British Columbia,Vancouver,transit,2020-02-02,77.48
+Ontario,Ottawa,driving,2020-01-26,77.28
+Ontario,Toronto,driving,2020-02-02,77.15
+Alberta,Calgary,transit,2020-03-13,77.11
+Alberta,Calgary,walking,2020-03-20,77.1
+Alberta,Calgary,transit,2020-03-08,77
+Alberta,Calgary,walking,2020-03-17,76.85
+Ontario,Toronto,transit,2020-02-09,76.8
+Quebec,Montreal,transit,2020-03-13,76.74
+Alberta,Calgary,transit,2020-02-23,76.61
+Quebec,Montreal,driving,2020-01-26,76.21
+British Columbia,Vancouver,transit,2020-03-13,75.87
+Alberta,Calgary,transit,2020-03-01,75.81
+Ontario,Ottawa,transit,2020-03-13,75.79
+Alberta,Calgary,transit,2020-02-16,75.69
+Ontario,Ottawa,driving,2020-01-19,75.69
+Alberta,Edmonton,transit,2020-02-02,75.68
+British Columbia,Vancouver,transit,2020-03-12,75.31
+Quebec,Montreal,driving,2020-03-14,75.02
+Ontario,Ottawa,transit,2020-03-01,74.97
+Ontario,Toronto,transit,2020-02-17,74.57
+Ontario,Toronto,transit,2020-01-26,74.47
+British Columbia,Vancouver,walking,2020-03-17,74.36
+Ontario,Toronto,transit,2020-03-13,74.08
+Alberta,Edmonton,transit,2020-02-17,74
+Alberta,Calgary,walking,2020-04-08,73.93
+Alberta,Calgary,transit,2020-02-09,73.82
+British Columbia,Vancouver,driving,2020-01-15,73.72
+Alberta,Calgary,transit,2020-01-26,73.49
+Alberta,Calgary,walking,2020-03-27,73.4
+Ontario,Toronto,transit,2020-01-19,73.17
+Quebec,Montreal,driving,2020-01-19,73.03
+Ontario,Toronto,transit,2020-02-02,72.93
+Alberta,Edmonton,walking,2020-03-24,72.81
+British Columbia,Vancouver,driving,2020-03-16,72.78
+Alberta,Edmonton,walking,2020-03-26,72.76
+Alberta,Edmonton,transit,2020-02-09,72.75
+Alberta,Calgary,walking,2020-04-06,72.66
+Alberta,Edmonton,transit,2020-01-19,72.6
+Alberta,Edmonton,transit,2020-02-16,72.46
+Alberta,Edmonton,transit,2020-03-01,72.45
+Alberta,Edmonton,transit,2020-01-26,72.05
+Alberta,Edmonton,driving,2020-03-16,71.81
+Alberta,Edmonton,walking,2020-04-10,71.81
+Alberta,Edmonton,walking,2020-04-07,71.42
+British Columbia,Vancouver,transit,2020-03-14,71.08
+Ontario,Ottawa,transit,2020-03-08,70.92
+Ontario,Ottawa,transit,2020-01-19,70.78
+Alberta,Edmonton,transit,2020-02-23,70.61
+Alberta,Calgary,walking,2020-03-23,70.03
+Ontario,Ottawa,transit,2020-01-26,69.6
+Alberta,Edmonton,walking,2020-04-06,69.53
+Alberta,Edmonton,walking,2020-03-25,69.52
+British Columbia,Vancouver,walking,2020-03-18,69.33
+Alberta,Calgary,walking,2020-03-15,69.29
+Alberta,Calgary,walking,2020-03-21,69.18
+Alberta,Calgary,driving,2020-03-14,68.69
+Alberta,Edmonton,walking,2020-03-23,68.54
+Ontario,Ottawa,transit,2020-02-23,68.43
+Alberta,Edmonton,transit,2020-03-08,68.34
+Ontario,Ottawa,transit,2020-02-17,67.99
+Ontario,Ottawa,transit,2020-02-09,67.97
+Ontario,Ottawa,transit,2020-02-16,67.74
+Alberta,Edmonton,walking,2020-04-13,67.66
+Ontario,Toronto,driving,2020-03-16,67.65
+Alberta,Calgary,walking,2020-03-26,67.45
+Alberta,Calgary,walking,2020-03-19,67.41
+Alberta,Calgary,walking,2020-03-25,67.38
+Quebec,Montreal,walking,2020-03-15,67.33
+Alberta,Edmonton,driving,2020-03-17,67.21
+Alberta,Edmonton,driving,2020-03-20,67.18
+British Columbia,Vancouver,driving,2020-03-15,67.11
+Alberta,Calgary,walking,2020-04-14,66.91
+Alberta,Edmonton,driving,2020-04-09,66.91
+Quebec,Montreal,walking,2020-03-16,66.61
+Alberta,Edmonton,walking,2020-04-03,66.39
+Alberta,Edmonton,walking,2020-04-14,66.03
+British Columbia,Vancouver,driving,2020-03-17,66.01
+Alberta,Edmonton,walking,2020-03-21,65.94
+Alberta,Edmonton,walking,2020-03-30,65.79
+Alberta,Calgary,walking,2020-04-15,65.78
+Alberta,Edmonton,driving,2020-04-16,65.69
+Quebec,Montreal,driving,2020-03-16,65.57
+Alberta,Calgary,walking,2020-03-18,65.53
+Alberta,Calgary,walking,2020-04-07,65.47
+Quebec,Montreal,transit,2020-03-14,65.37
+British Columbia,Vancouver,walking,2020-03-20,65.27
+Alberta,Calgary,walking,2020-04-04,65.21
+Alberta,Calgary,walking,2020-03-22,65.11
+Ontario,Ottawa,walking,2020-03-15,65.03
+Ontario,Toronto,walking,2020-03-15,64.95
+Alberta,Edmonton,walking,2020-03-31,64.31
+Alberta,Calgary,walking,2020-03-24,64.09
+British Columbia,Vancouver,walking,2020-03-19,64.05
+Alberta,Calgary,walking,2020-04-13,63.78
+Alberta,Edmonton,walking,2020-04-11,63.73
+Ontario,Ottawa,walking,2020-03-16,63.56
+Alberta,Edmonton,driving,2020-04-15,63.35
+Alberta,Calgary,walking,2020-04-11,63.29
+Alberta,Edmonton,transit,2020-03-14,62.31
+Alberta,Calgary,driving,2020-04-09,62.27
+Alberta,Calgary,driving,2020-03-16,62.22
+Alberta,Edmonton,driving,2020-03-18,62.02
+Ontario,Toronto,walking,2020-03-16,62.02
+Alberta,Edmonton,driving,2020-03-19,61.78
+Alberta,Calgary,walking,2020-04-10,61.7
+Alberta,Edmonton,driving,2020-03-27,61.58
+British Columbia,Vancouver,driving,2020-03-18,61.53
+Alberta,Edmonton,walking,2020-04-01,61.32
+Alberta,Calgary,walking,2020-03-29,61.3
+British Columbia,Vancouver,driving,2020-03-20,61.11
+Alberta,Edmonton,walking,2020-04-04,61.1
+Alberta,Edmonton,walking,2020-04-02,61.06
+Ontario,Ottawa,driving,2020-03-16,60.94
+Alberta,Edmonton,walking,2020-03-28,60.84
+Alberta,Edmonton,driving,2020-03-15,60.53
+Alberta,Edmonton,transit,2020-03-17,59.8
+Alberta,Calgary,driving,2020-03-17,59.51
+Alberta,Edmonton,driving,2020-04-03,59.27
+Alberta,Calgary,driving,2020-04-16,59.19
+Ontario,Toronto,driving,2020-03-17,59.18
+Ontario,Ottawa,driving,2020-03-15,59.17
+Alberta,Calgary,driving,2020-03-20,59.14
+Ontario,Toronto,transit,2020-03-14,59.03
+Ontario,Toronto,driving,2020-03-15,58.99
+Alberta,Calgary,walking,2020-04-01,58.84
+British Columbia,Vancouver,walking,2020-03-21,58.78
+British Columbia,Vancouver,driving,2020-03-19,58.56
+Ontario,Ottawa,transit,2020-03-14,58.37
+British Columbia,Vancouver,transit,2020-03-15,58.19
+Alberta,Calgary,walking,2020-04-03,58.01
+Alberta,Edmonton,transit,2020-03-16,57.97
+Alberta,Calgary,walking,2020-03-28,57.78
+Alberta,Calgary,walking,2020-03-31,57.62
+Alberta,Calgary,walking,2020-04-02,56.95
+Alberta,Edmonton,driving,2020-04-14,56.92
+British Columbia,Vancouver,walking,2020-04-16,56.76
+Alberta,Edmonton,driving,2020-04-08,56.64
+Quebec,Montreal,driving,2020-03-17,56.45
+Quebec,Montreal,walking,2020-03-18,56.27
+British Columbia,Vancouver,driving,2020-04-09,56.21
+Alberta,Calgary,transit,2020-03-14,55.83
+Quebec,Montreal,driving,2020-03-15,55.79
+British Columbia,Vancouver,driving,2020-04-16,55.23
+Ontario,Ottawa,walking,2020-04-06,55.22
+Alberta,Calgary,driving,2020-03-18,55.21
+Ontario,Ottawa,walking,2020-03-18,55.21
+British Columbia,Vancouver,driving,2020-04-15,55.15
+British Columbia,Vancouver,walking,2020-04-15,54.98
+Ontario,Toronto,driving,2020-03-18,54.83
+Quebec,Montreal,driving,2020-03-18,54.53
+British Columbia,Vancouver,walking,2020-04-09,54.31
+Alberta,Calgary,driving,2020-03-27,54.27
+Alberta,Edmonton,driving,2020-03-26,54.07
+Ontario,Ottawa,driving,2020-03-17,54.02
+Alberta,Edmonton,driving,2020-04-10,53.84
+Alberta,Calgary,driving,2020-03-19,53.61
+Alberta,Calgary,driving,2020-03-15,53.52
+British Columbia,Vancouver,transit,2020-03-16,53.46
+Alberta,Edmonton,driving,2020-04-07,53.32
+Quebec,Montreal,driving,2020-03-19,53.16
+Alberta,Calgary,walking,2020-03-30,53.1
+Alberta,Calgary,driving,2020-04-15,53.05
+Quebec,Montreal,walking,2020-03-17,52.96
+Ontario,Ottawa,driving,2020-03-18,52.93
+Alberta,Edmonton,driving,2020-03-25,52.9
+Alberta,Edmonton,driving,2020-04-01,52.83
+Alberta,Edmonton,driving,2020-04-11,52.79
+Ontario,Toronto,driving,2020-03-19,52.76
+Ontario,Ottawa,walking,2020-03-19,52.65
+Ontario,Ottawa,driving,2020-03-20,52.62
+Ontario,Toronto,driving,2020-03-20,52.49
+Alberta,Edmonton,driving,2020-03-23,52.46
+Alberta,Edmonton,driving,2020-04-06,52.35
+Ontario,Ottawa,walking,2020-03-27,52.32
+Alberta,Edmonton,walking,2020-03-22,52.26
+Ontario,Toronto,walking,2020-03-17,52.24
+Ontario,Ottawa,walking,2020-04-04,52.19
+Alberta,Edmonton,driving,2020-03-24,51.91
+Alberta,Edmonton,driving,2020-04-13,51.87
+British Columbia,Vancouver,driving,2020-04-14,51.71
+British Columbia,Vancouver,walking,2020-04-08,51.68
+Quebec,Montreal,walking,2020-03-19,51.65
+Alberta,Calgary,driving,2020-04-03,51.63
+British Columbia,Vancouver,walking,2020-04-11,51.57
+Quebec,Montreal,driving,2020-03-20,51.55
+Alberta,Edmonton,driving,2020-03-21,51.51
+Ontario,Ottawa,walking,2020-03-17,51.5
+Quebec,Montreal,transit,2020-03-15,51.46
+Alberta,Calgary,driving,2020-04-14,51.25
+Ontario,Ottawa,driving,2020-03-19,51.23
+Alberta,Edmonton,driving,2020-03-30,51.2
+British Columbia,Vancouver,walking,2020-04-14,51.08
+Alberta,Edmonton,driving,2020-04-02,51.03
+Alberta,Calgary,driving,2020-04-08,50.93
+British Columbia,Vancouver,driving,2020-04-03,50.64
+British Columbia,Vancouver,driving,2020-04-08,50.6
+Alberta,Calgary,walking,2020-04-12,50.48
+Ontario,Ottawa,walking,2020-03-22,50.31
+Ontario,Ottawa,walking,2020-04-07,50.31
+British Columbia,Vancouver,driving,2020-03-21,50.31
+British Columbia,Vancouver,walking,2020-04-10,50.27
+Quebec,Montreal,transit,2020-03-16,49.52
+British Columbia,Vancouver,walking,2020-04-13,49.47
+Ontario,Ottawa,walking,2020-03-20,49.35
+Alberta,Calgary,walking,2020-04-05,49.31
+Alberta,Edmonton,walking,2020-03-29,49.16
+Ontario,Ottawa,walking,2020-04-02,48.95
+Alberta,Calgary,transit,2020-03-16,48.87
+Alberta,Edmonton,driving,2020-03-31,48.69
+British Columbia,Vancouver,walking,2020-04-07,48.61
+Alberta,Calgary,driving,2020-03-23,48.55
+Ontario,Toronto,transit,2020-03-15,48.41
+Ontario,Ottawa,walking,2020-04-01,48.35
+British Columbia,Vancouver,walking,2020-04-06,48.19
+British Columbia,Vancouver,driving,2020-04-10,48.02
+Alberta,Edmonton,driving,2020-04-04,47.95
+British Columbia,Vancouver,driving,2020-04-07,47.94
+Alberta,Calgary,driving,2020-03-21,47.86
+British Columbia,Vancouver,driving,2020-04-11,47.55
+Alberta,Calgary,driving,2020-03-26,47.52
+Ontario,Ottawa,walking,2020-03-31,47.49
+Alberta,Calgary,driving,2020-04-13,47.4
+Alberta,Calgary,driving,2020-04-06,47.34
+Ontario,Toronto,walking,2020-03-19,47.32
+British Columbia,Vancouver,driving,2020-04-06,47.09
+Ontario,Toronto,walking,2020-03-18,47.08
+Ontario,Toronto,transit,2020-03-16,47.04
+British Columbia,Vancouver,walking,2020-03-25,46.99
+Alberta,Edmonton,walking,2020-04-12,46.94
+Alberta,Calgary,driving,2020-03-25,46.83
+Alberta,Calgary,driving,2020-04-10,46.72
+British Columbia,Vancouver,driving,2020-03-27,46.72
+Alberta,Calgary,driving,2020-04-07,46.7
+Quebec,Montreal,walking,2020-03-27,46.55
+Quebec,Montreal,walking,2020-03-20,46.5
+British Columbia,Vancouver,walking,2020-04-03,46.34
+British Columbia,Vancouver,driving,2020-04-01,46.31
+Alberta,Calgary,transit,2020-03-15,46.26
+Ontario,Ottawa,walking,2020-03-24,46.25
+Ontario,Ottawa,walking,2020-04-14,46.24
+Quebec,Montreal,walking,2020-04-04,46.23
+British Columbia,Vancouver,driving,2020-03-31,46.19
+Alberta,Calgary,driving,2020-04-02,46.14
+Alberta,Edmonton,transit,2020-03-15,46.09
+British Columbia,Vancouver,driving,2020-03-25,45.92
+Alberta,Edmonton,driving,2020-03-28,45.84
+Alberta,Calgary,driving,2020-04-01,45.8
+Ontario,Ottawa,driving,2020-04-09,45.73
+Ontario,Toronto,walking,2020-03-20,45.59
+Ontario,Ottawa,driving,2020-04-16,45.58
+Alberta,Calgary,driving,2020-04-04,45.39
+Alberta,Calgary,driving,2020-04-11,45.34
+British Columbia,Vancouver,driving,2020-04-13,45.2
+Alberta,Edmonton,transit,2020-03-18,45.16
+Ontario,Toronto,driving,2020-04-09,45.08
+British Columbia,Vancouver,walking,2020-03-31,45.06
+Ontario,Ottawa,walking,2020-04-11,45
+Ontario,Ottawa,walking,2020-03-30,44.94
+Ontario,Ottawa,driving,2020-04-15,44.88
+Alberta,Calgary,driving,2020-03-24,44.86
+Alberta,Edmonton,walking,2020-04-05,44.75
+Ontario,Ottawa,driving,2020-03-27,44.67
+British Columbia,Vancouver,driving,2020-04-02,44.62
+Alberta,Calgary,driving,2020-03-31,44.48
+Ontario,Ottawa,driving,2020-04-14,44.06
+British Columbia,Vancouver,driving,2020-03-23,44.05
+British Columbia,Vancouver,walking,2020-04-01,44.05
+Ontario,Toronto,driving,2020-04-16,43.91
+British Columbia,Vancouver,walking,2020-03-24,43.91
+Ontario,Ottawa,walking,2020-03-21,43.87
+Ontario,Ottawa,transit,2020-03-15,43.8
+Ontario,Ottawa,driving,2020-03-21,43.68
+Ontario,Ottawa,driving,2020-04-03,43.6
+Ontario,Ottawa,walking,2020-03-25,43.59
+British Columbia,Vancouver,driving,2020-04-04,43.59
+Quebec,Montreal,walking,2020-04-07,43.46
+Ontario,Ottawa,walking,2020-04-03,43.45
+Ontario,Ottawa,walking,2020-04-08,43.44
+Ontario,Toronto,driving,2020-04-15,43.43
+Ontario,Toronto,driving,2020-03-21,43.4
+Alberta,Calgary,driving,2020-03-30,43.26
+Ontario,Ottawa,walking,2020-03-28,43.26
+British Columbia,Vancouver,driving,2020-03-24,43.16
+Quebec,Montreal,driving,2020-03-23,43.14
+British Columbia,Vancouver,walking,2020-04-12,43.02
+Ontario,Toronto,driving,2020-03-27,42.98
+British Columbia,Vancouver,driving,2020-03-30,42.91
+Quebec,Montreal,walking,2020-03-21,42.9
+Ontario,Toronto,driving,2020-04-03,42.83
+Quebec,Montreal,walking,2020-03-31,42.76
+British Columbia,Vancouver,walking,2020-03-23,42.74
+British Columbia,Vancouver,transit,2020-03-17,42.71
+Ontario,Ottawa,driving,2020-03-31,42.64
+Alberta,Calgary,driving,2020-03-28,42.59
+British Columbia,Vancouver,walking,2020-04-04,42.52
+British Columbia,Vancouver,driving,2020-03-26,42.29
+Ontario,Toronto,driving,2020-04-14,42.21
+Ontario,Ottawa,driving,2020-04-11,41.97
+Ontario,Ottawa,driving,2020-04-08,41.96
+Ontario,Ottawa,walking,2020-04-15,41.89
+Ontario,Toronto,driving,2020-03-24,41.8
+Ontario,Ottawa,driving,2020-03-24,41.76
+Ontario,Ottawa,walking,2020-04-16,41.74
+Ontario,Ottawa,walking,2020-03-26,41.61
+Ontario,Toronto,walking,2020-03-27,41.56
+Ontario,Ottawa,driving,2020-04-01,41.5
+British Columbia,Vancouver,walking,2020-04-02,41.46
+Quebec,Montreal,walking,2020-03-24,41.39
+Ontario,Toronto,walking,2020-03-21,41.38
+Quebec,Montreal,walking,2020-04-06,41.32
+Ontario,Toronto,walking,2020-04-01,41.29
+Ontario,Toronto,driving,2020-04-08,41.18
+Ontario,Toronto,walking,2020-04-02,40.97
+Quebec,Montreal,walking,2020-03-25,40.86
+Ontario,Ottawa,driving,2020-04-02,40.84
+Ontario,Ottawa,driving,2020-03-23,40.77
+Ontario,Ottawa,driving,2020-04-07,40.69
+British Columbia,Vancouver,walking,2020-03-29,40.69
+Ontario,Ottawa,transit,2020-03-16,40.67
+Alberta,Calgary,transit,2020-03-17,40.63
+British Columbia,Vancouver,walking,2020-03-27,40.52
+Ontario,Toronto,walking,2020-04-08,40.45
+Ontario,Toronto,driving,2020-04-01,40.44
+Ontario,Toronto,driving,2020-04-02,40.35
+Quebec,Montreal,driving,2020-03-24,40.26
+Ontario,Ottawa,driving,2020-04-06,40.23
+Ontario,Toronto,driving,2020-03-23,40.23
+Quebec,Montreal,walking,2020-04-08,39.9
+Quebec,Montreal,walking,2020-04-16,39.81
+Ontario,Ottawa,walking,2020-04-12,39.8
+British Columbia,Vancouver,walking,2020-03-22,39.58
+British Columbia,Vancouver,walking,2020-03-30,39.58
+Quebec,Montreal,driving,2020-03-21,39.43
+Ontario,Ottawa,walking,2020-04-09,39.35
+Alberta,Edmonton,driving,2020-03-22,39.22
+Quebec,Montreal,walking,2020-04-14,39.22
+British Columbia,Vancouver,walking,2020-04-05,39.18
+Ontario,Ottawa,walking,2020-03-23,39.12
+Ontario,Toronto,walking,2020-04-06,39.02
+Quebec,Montreal,transit,2020-03-17,39
+Ontario,Toronto,driving,2020-04-07,38.99
+Quebec,Montreal,walking,2020-04-15,38.85
+Quebec,Montreal,driving,2020-04-16,38.83
+Ontario,Toronto,driving,2020-03-31,38.83
+Quebec,Montreal,walking,2020-03-28,38.79
+Ontario,Toronto,driving,2020-03-25,38.72
+Ontario,Ottawa,driving,2020-03-30,38.7
+Ontario,Toronto,driving,2020-04-06,38.66
+Ontario,Ottawa,driving,2020-03-25,38.61
+Ontario,Toronto,driving,2020-04-11,38.54
+British Columbia,Vancouver,driving,2020-04-12,38.48
+Ontario,Ottawa,driving,2020-03-26,38.29
+British Columbia,Vancouver,driving,2020-03-28,38.28
+Ontario,Toronto,driving,2020-03-26,38.27
+Quebec,Montreal,walking,2020-04-03,38.2
+British Columbia,Vancouver,driving,2020-04-05,38.19
+Quebec,Montreal,walking,2020-03-23,38.09
+Alberta,Calgary,driving,2020-03-22,38.06
+British Columbia,Vancouver,walking,2020-03-26,37.93
+Ontario,Ottawa,driving,2020-04-04,37.76
+Quebec,Montreal,driving,2020-04-15,37.74
+Quebec,Montreal,driving,2020-03-27,37.73
+Ontario,Toronto,walking,2020-03-24,37.65
+Ontario,Toronto,walking,2020-03-25,37.51
+Quebec,Montreal,walking,2020-04-11,37.34
+Ontario,Toronto,walking,2020-04-03,37.27
+Quebec,Montreal,walking,2020-03-22,37.2
+Quebec,Montreal,walking,2020-03-26,37.19
+Ontario,Toronto,driving,2020-03-30,37.13
+Quebec,Montreal,walking,2020-04-01,37.11
+Ontario,Toronto,transit,2020-03-17,37.11
+Quebec,Montreal,walking,2020-04-12,37.06
+Alberta,Edmonton,driving,2020-04-05,37.05
+Ontario,Toronto,walking,2020-04-09,37.03
+British Columbia,Vancouver,transit,2020-03-18,36.94
+Alberta,Edmonton,transit,2020-03-20,36.89
+Ontario,Ottawa,driving,2020-04-13,36.87
+Alberta,Edmonton,driving,2020-03-29,36.84
+Alberta,Edmonton,driving,2020-04-12,36.8
+Ontario,Ottawa,walking,2020-04-10,36.76
+Quebec,Montreal,transit,2020-03-18,36.73
+Ontario,Ottawa,driving,2020-03-22,36.59
+Ontario,Toronto,walking,2020-03-26,36.59
+Alberta,Calgary,driving,2020-03-29,36.5
+British Columbia,Vancouver,driving,2020-03-29,36.44
+Ontario,Ottawa,walking,2020-04-05,36.39
+Ontario,Ottawa,driving,2020-03-28,36.14
+Ontario,Toronto,walking,2020-04-04,36.09
+Ontario,Toronto,walking,2020-04-14,36.03
+Alberta,Edmonton,transit,2020-03-19,35.93
+Ontario,Ottawa,driving,2020-04-10,35.87
+Ontario,Toronto,driving,2020-04-13,35.85
+Quebec,Montreal,driving,2020-04-14,35.78
+Alberta,Calgary,transit,2020-03-18,35.71
+Quebec,Montreal,walking,2020-04-10,35.65
+Ontario,Toronto,walking,2020-04-07,35.57
+Ontario,Toronto,driving,2020-04-04,35.54
+British Columbia,Vancouver,driving,2020-03-22,35.53
+Ontario,Toronto,walking,2020-04-11,35.27
+Alberta,Calgary,driving,2020-04-12,35.26
+Ontario,Toronto,walking,2020-04-15,34.69
+Quebec,Montreal,driving,2020-04-03,34.51
+Quebec,Montreal,driving,2020-03-31,34.41
+Ontario,Toronto,walking,2020-04-05,34.4
+Quebec,Montreal,driving,2020-03-25,34.22
+Alberta,Calgary,driving,2020-04-05,34.11
+Ontario,Toronto,walking,2020-03-31,34.07
+Ontario,Toronto,walking,2020-04-16,33.88
+Quebec,Montreal,driving,2020-04-01,33.81
+Ontario,Toronto,walking,2020-03-22,33.73
+Quebec,Montreal,driving,2020-04-09,33.68
+Quebec,Montreal,driving,2020-03-26,33.66
+British Columbia,Vancouver,walking,2020-03-28,33.47
+Quebec,Montreal,driving,2020-04-08,33.43
+Quebec,Montreal,walking,2020-04-02,33.4
+Quebec,Montreal,walking,2020-04-09,33.38
+Ontario,Ottawa,walking,2020-04-13,33.33
+Ontario,Toronto,driving,2020-03-22,33.22
+Quebec,Montreal,driving,2020-04-10,33.19
+Ontario,Toronto,driving,2020-03-28,33.08
+Ontario,Toronto,transit,2020-03-18,33.01
+Quebec,Montreal,driving,2020-04-07,32.93
+Alberta,Calgary,transit,2020-03-20,32.91
+Ontario,Toronto,walking,2020-03-23,32.85
+Quebec,Montreal,driving,2020-04-06,32.82
+Ontario,Toronto,walking,2020-03-29,32.76
+Ontario,Toronto,driving,2020-04-10,32.74
+Ontario,Toronto,walking,2020-03-30,32.4
+Alberta,Calgary,transit,2020-03-19,32.34
+Quebec,Montreal,transit,2020-03-19,32.21
+British Columbia,Vancouver,transit,2020-03-19,32.15
+Quebec,Montreal,driving,2020-04-02,32
+Quebec,Montreal,driving,2020-03-22,31.66
+Ontario,Ottawa,transit,2020-03-17,31.26
+British Columbia,Vancouver,transit,2020-03-20,31.19
+Quebec,Montreal,driving,2020-03-30,31.15
+Quebec,Montreal,driving,2020-04-11,31.06
+Quebec,Montreal,transit,2020-03-20,30.84
+Quebec,Montreal,driving,2020-04-04,30.56
+Ontario,Toronto,walking,2020-04-10,30.42
+Ontario,Toronto,transit,2020-03-19,30.24
+Quebec,Montreal,driving,2020-03-28,30.04
+Ontario,Toronto,walking,2020-03-28,29.89
+Ontario,Ottawa,driving,2020-04-05,29.73
+Quebec,Montreal,walking,2020-04-05,29.71
+Ontario,Toronto,walking,2020-04-12,29.38
+Ontario,Toronto,driving,2020-04-05,29.32
+Quebec,Montreal,walking,2020-03-30,29.25
+Ontario,Toronto,driving,2020-03-29,29.21
+Ontario,Ottawa,driving,2020-04-12,29.11
+Ontario,Toronto,walking,2020-04-13,28.95
+Ontario,Toronto,transit,2020-03-20,28.79
+Alberta,Edmonton,transit,2020-03-23,28.67
+Quebec,Montreal,walking,2020-04-13,27.8
+British Columbia,Vancouver,transit,2020-03-21,27.75
+Quebec,Montreal,driving,2020-04-13,27.66
+Ontario,Ottawa,transit,2020-03-18,27.52
+Quebec,Montreal,transit,2020-03-21,27.16
+Ontario,Ottawa,driving,2020-03-29,27.13
+Ontario,Toronto,driving,2020-04-12,26.97
+Alberta,Edmonton,transit,2020-03-21,26.67
+Alberta,Calgary,transit,2020-03-21,26.55
+Alberta,Calgary,transit,2020-03-23,26.34
+Ontario,Ottawa,walking,2020-03-29,26.05
+Alberta,Edmonton,transit,2020-03-27,25.75
+Ontario,Toronto,transit,2020-03-21,25.4
+Ontario,Ottawa,transit,2020-03-19,25.29
+Alberta,Calgary,transit,2020-03-25,25.01
+Alberta,Edmonton,transit,2020-03-26,24.95
+Quebec,Montreal,driving,2020-04-12,24.92
+Alberta,Edmonton,transit,2020-03-24,24.84
+Alberta,Edmonton,transit,2020-03-25,24.82
+Alberta,Calgary,transit,2020-03-22,24.18
+Quebec,Montreal,transit,2020-03-23,24.15
+Alberta,Edmonton,transit,2020-04-01,24.01
+Quebec,Montreal,transit,2020-03-22,23.94
+Alberta,Edmonton,transit,2020-03-22,23.87
+Alberta,Calgary,transit,2020-04-08,23.75
+Alberta,Calgary,transit,2020-03-30,23.66
+Alberta,Calgary,transit,2020-03-27,23.64
+Ontario,Toronto,transit,2020-03-23,23.54
+Alberta,Calgary,transit,2020-03-24,23.38
+Alberta,Edmonton,transit,2020-03-30,23.38
+Alberta,Calgary,transit,2020-04-06,23.36
+Quebec,Montreal,driving,2020-03-29,23.16
+Ontario,Ottawa,transit,2020-03-20,23.02
+Alberta,Calgary,transit,2020-04-09,22.76
+Alberta,Calgary,transit,2020-04-14,22.61
+Quebec,Montreal,walking,2020-03-29,22.54
+Quebec,Montreal,driving,2020-04-05,22.39
+Alberta,Edmonton,transit,2020-04-09,22.18
+Alberta,Edmonton,transit,2020-04-08,21.93
+British Columbia,Vancouver,transit,2020-03-23,21.91
+Ontario,Toronto,transit,2020-03-24,21.81
+Alberta,Edmonton,transit,2020-04-03,21.8
+Ontario,Toronto,transit,2020-03-22,21.74
+Alberta,Edmonton,transit,2020-04-02,21.72
+Quebec,Montreal,transit,2020-03-24,21.71
+Alberta,Calgary,transit,2020-04-01,21.63
+Alberta,Calgary,transit,2020-03-26,21.55
+Alberta,Calgary,transit,2020-04-16,21.47
+Alberta,Calgary,transit,2020-03-31,21.42
+Ontario,Ottawa,transit,2020-03-21,21.42
+Alberta,Calgary,transit,2020-04-15,21.4
+Alberta,Edmonton,transit,2020-04-16,21.29
+Alberta,Edmonton,transit,2020-04-15,21.18
+Alberta,Edmonton,transit,2020-04-06,20.96
+British Columbia,Vancouver,transit,2020-04-06,20.94
+British Columbia,Vancouver,transit,2020-03-22,20.9
+Alberta,Edmonton,transit,2020-03-31,20.86
+Alberta,Calgary,transit,2020-04-07,20.8
+Alberta,Edmonton,transit,2020-04-07,20.72
+British Columbia,Vancouver,transit,2020-03-25,20.58
+British Columbia,Vancouver,transit,2020-04-15,20.5
+Alberta,Edmonton,transit,2020-04-14,20.49
+British Columbia,Vancouver,transit,2020-04-16,20.48
+Alberta,Calgary,transit,2020-04-02,20.44
+Quebec,Montreal,transit,2020-03-25,20.35
+British Columbia,Vancouver,transit,2020-03-31,20.35
+Alberta,Calgary,transit,2020-04-13,20.23
+Alberta,Edmonton,transit,2020-04-13,20.23
+Alberta,Calgary,transit,2020-04-04,20.18
+British Columbia,Vancouver,transit,2020-04-08,20.15
+Ontario,Toronto,transit,2020-03-25,20.07
+British Columbia,Vancouver,transit,2020-03-24,20.02
+British Columbia,Vancouver,transit,2020-03-30,20.01
+Quebec,Montreal,transit,2020-03-31,19.98
+Quebec,Montreal,transit,2020-03-27,19.72
+Ontario,Toronto,transit,2020-03-31,19.68
+Ontario,Toronto,transit,2020-03-27,19.66
+Alberta,Edmonton,transit,2020-03-29,19.59
+British Columbia,Vancouver,transit,2020-04-07,19.59
+British Columbia,Vancouver,transit,2020-04-10,19.51
+British Columbia,Vancouver,transit,2020-04-14,19.5
+Alberta,Edmonton,transit,2020-03-28,19.49
+British Columbia,Vancouver,transit,2020-04-03,19.44
+Ontario,Toronto,transit,2020-03-30,19.42
+British Columbia,Vancouver,transit,2020-04-01,19.36
+Alberta,Calgary,transit,2020-04-03,19.33
+British Columbia,Vancouver,transit,2020-04-09,19.31
+Quebec,Montreal,transit,2020-03-26,19.21
+British Columbia,Vancouver,transit,2020-04-13,19.21
+Ontario,Toronto,transit,2020-03-26,19.2
+Ontario,Toronto,transit,2020-04-01,19.09
+Quebec,Montreal,transit,2020-03-30,19.07
+British Columbia,Vancouver,transit,2020-03-26,19.06
+Quebec,Montreal,transit,2020-04-14,19.04
+Quebec,Montreal,transit,2020-04-15,19
+Ontario,Ottawa,transit,2020-03-22,18.98
+Ontario,Toronto,transit,2020-04-02,18.95
+Quebec,Montreal,transit,2020-04-03,18.89
+Alberta,Calgary,transit,2020-03-29,18.82
+British Columbia,Vancouver,transit,2020-03-27,18.77
+Alberta,Calgary,transit,2020-03-28,18.69
+Quebec,Montreal,transit,2020-04-16,18.67
+Alberta,Calgary,transit,2020-04-11,18.66
+British Columbia,Vancouver,transit,2020-04-02,18.65
+British Columbia,Vancouver,transit,2020-04-11,18.63
+Quebec,Montreal,transit,2020-04-01,18.62
+Quebec,Montreal,transit,2020-04-06,18.45
+Quebec,Montreal,transit,2020-04-13,18.43
+Alberta,Edmonton,transit,2020-04-04,18.42
+Quebec,Montreal,transit,2020-03-28,18.41
+Quebec,Montreal,transit,2020-04-02,18.3
+British Columbia,Vancouver,transit,2020-03-28,18.3
+Ontario,Ottawa,transit,2020-03-23,18.27
+Ontario,Ottawa,transit,2020-03-24,18.2
+Alberta,Calgary,transit,2020-04-10,18.18
+British Columbia,Vancouver,transit,2020-04-04,18.04
+British Columbia,Vancouver,transit,2020-03-29,18.01
+Ontario,Toronto,transit,2020-04-03,17.91
+Ontario,Ottawa,transit,2020-03-25,17.88
+Quebec,Montreal,transit,2020-04-08,17.84
+Ontario,Ottawa,transit,2020-03-27,17.83
+Ontario,Toronto,transit,2020-04-06,17.75
+British Columbia,Vancouver,transit,2020-04-05,17.69
+Ontario,Toronto,transit,2020-04-14,17.64
+Ontario,Ottawa,transit,2020-03-26,17.62
+Quebec,Montreal,transit,2020-04-07,17.6
+Alberta,Calgary,transit,2020-04-05,17.31
+Quebec,Montreal,transit,2020-04-04,17.25
+British Columbia,Vancouver,transit,2020-04-12,17.18
+Alberta,Edmonton,transit,2020-04-10,17.16
+Ontario,Toronto,transit,2020-04-15,17.11
+Alberta,Edmonton,transit,2020-04-05,17.1
+Ontario,Ottawa,transit,2020-03-31,17.03
+Ontario,Toronto,transit,2020-03-29,16.95
+Quebec,Montreal,transit,2020-04-10,16.93
+Alberta,Calgary,transit,2020-04-12,16.84
+Ontario,Toronto,transit,2020-04-13,16.78
+Ontario,Toronto,transit,2020-03-28,16.75
+Ontario,Ottawa,transit,2020-03-28,16.74
+Ontario,Toronto,transit,2020-04-09,16.63
+Ontario,Toronto,transit,2020-04-07,16.62
+Ontario,Toronto,transit,2020-04-08,16.59
+Ontario,Toronto,transit,2020-04-16,16.56
+Ontario,Ottawa,transit,2020-03-30,16.36
+Alberta,Edmonton,transit,2020-04-11,16.31
+Ontario,Ottawa,transit,2020-04-01,16.18
+Quebec,Montreal,transit,2020-04-11,16.08
+Ontario,Toronto,transit,2020-04-04,16
+Quebec,Montreal,transit,2020-04-09,15.97
+Ontario,Ottawa,transit,2020-04-03,15.93
+Ontario,Toronto,transit,2020-04-05,15.7
+Quebec,Montreal,transit,2020-03-29,15.52
+Ontario,Toronto,transit,2020-04-11,15.44
+Ontario,Ottawa,transit,2020-04-02,15.25
+Ontario,Ottawa,transit,2020-04-07,15.19
+Ontario,Ottawa,transit,2020-04-15,15.06
+Ontario,Ottawa,transit,2020-04-04,15.05
+Quebec,Montreal,transit,2020-04-05,15.02
+Quebec,Montreal,transit,2020-04-12,14.99
+Alberta,Edmonton,transit,2020-04-12,14.97
+Ontario,Ottawa,transit,2020-04-08,14.95
+Ontario,Ottawa,transit,2020-04-06,14.92
+Ontario,Ottawa,transit,2020-04-05,14.75
+Ontario,Ottawa,transit,2020-03-29,14.54
+Ontario,Toronto,transit,2020-04-10,14.45
+Ontario,Ottawa,transit,2020-04-14,14.33
+Ontario,Ottawa,transit,2020-04-13,14.25
+Ontario,Ottawa,transit,2020-04-16,14.23
+Ontario,Toronto,transit,2020-04-12,13.68
+Ontario,Ottawa,transit,2020-04-09,13.59
+Ontario,Ottawa,transit,2020-04-11,13.46
+Ontario,Ottawa,transit,2020-04-10,11.79
+Ontario,Ottawa,transit,2020-04-12,11.16

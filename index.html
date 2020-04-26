@@ -20,7 +20,7 @@
     <div class="row">
         <div class="col-md-12">
             <h3>Apple Mobility Trends Reports - Canadian Cities Data</h3>
-            <p id="header">This heatmap visualization shows Apple Mobility Trends Reports data that contain relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020. The dataset included the following Canadian cities: Vancouver, Ottawa, Toronto, Calgary, Edmonton and Montreal.</p>
+            <p id="header">This heatmap visualization shows Apple Mobility Trends Reports data that contain relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020. The dataset included the following Canadian cities: Vancouver, Ottawa, Toronto, Calgary, Edmonton and Montreal. Data updated April 24, 2020.</p>
             
             <p>Data source: <a href="https://www.apple.com/covid19/mobility/" target="blank">Mobility Trends Reports csv format data</a></p>
 
@@ -447,17 +447,14 @@ function drawGraphic() {
       .text(dvc.essential.varunit);
   } //end createkey
 
-
 } // closes drawGraphic
 
+// could use D3 Reshape to shift date cols to rows? Going from wide to long format.
 if (Modernizr.svg) {
   d3.json("config.json", function(error, config) {
     dvc = config;
-
     d3.csv(dvc.essential.graphic_data_url, function(error, data) {
-
       graphic_data = data;
-
       pymChild = new pym.Child({
         renderCallback: drawGraphic
       });
