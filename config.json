@@ -1,6 +1,7 @@
 {
   "essential" : {
-    "graphic_data_url": "https://raw.githubusercontent.com/sitrucp/covid_canada_apple_mobility/master/apple_mobility_canada_data.csv",
+ 
+    "graphic_data_url": "http://localhost/ws_covid_canada_apple_mobility/apple_mobility_canada_data.csv",
     "canadianRegion":["Calgary","Edmonton","Montreal","Ottawa","Toronto","Vancouver","Alberta","British Columbia","Manitoba","New Brunswick","Newfoundland and Labrador","Nova Scotia","Nunavut","Ontario","Prince Edward Island","Quebec","Saskatchewan","Yukon Territory"],
     "categorySort":["driving","transit","walking"],
     "categoryHeight": {
@@ -14,8 +15,8 @@
       "medium":3
     },
     "tickNumber":{
-      "small":6,
-      "medium":10
+      "small":2,
+      "medium":20
     },
     "breaks":[[0,30,60,90,120,150,180,210,240]],
     "numberBreaks":8,
@@ -39,7 +40,7 @@
         "left": 160
       }
     },
-    "mobileBreakpoint" : 450,
-    "tickDayInterval": 9
+    "mobileBreakpoint": 450,
+    "tickDayInterval":7 
   }
 }
